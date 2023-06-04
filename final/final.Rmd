@@ -51,10 +51,37 @@ The central research question guiding this study is "How do the mean nominal mon
 
 Discrimination in salaries based on sex is a persistent and concerning issue in many societies. Numerous studies have highlighted the existence of a gender wage gap, where women tend to earn less than their male counterparts for similar work. This disparity not only has significant economic implications but also reflects deep-rooted gender inequalities in the labor market. Understanding the extent and underlying causes of this wage gap is crucial for developing effective policies and initiatives to promote gender equality in employment.
 
-@
-
+@barbezat:1987 provides estimates of both total differentials and salary discrimination between males and females. @jena:2016 undertakes an analysis of sex differences in academic physician salary that was designed to mitigate many of the limitations of previous studies on this topic. @belon:1977 the larger proportion of women than men being employed at lower-paying institutions coupled with the fact that women were most likely to be found on the lower end of the academy ladder. @robert:1983 employer discrimination is a principal source of discrimination against blacks and women, then we would expect the female/male earnings ratios to be higher for the self-employed compared to their wage and salary counterparts. @larson:2014 aims to develop and test hypotheses on determinants of supply chain managers’ salaries. While women make up about half the workforce, there is evidence in the trade press that they receive far less than half of the compensation. Sex of the manager and size of his or her organization are among the predictors of salary. @gollob:1984 the difference index defines sex bias as the difference in mean salary inequities between men and women and emphasizes the necessity of deciding how much relevant differences in qualifications are worth.
 
 # Data
+
+```{r code_chunk_name, echo = FALSE}
+
+library(tidyverse)
+
+library(here)
+
+survey <- read_csv(here("data/Employment.csv"))
+
+```
+
+
+```{r, echo=FALSE}
+library(xtable)
+library(summarytools)
+st_options(lang = "en")
+```
+
+
+```{r results='asis', echo=FALSE}
+survey %>% 
+  select("Manufacturing", "Construction", "Agriculture", "Mining and quarrying; Electricity, gas and water supply", "Public Administration, Community, Social and other Services and Activities") %>%
+  descr(stats = c("mean", "sd", "min", "med", "max"), transpose = TRUE) %>%
+  xtable(caption = "Summary Statistics",
+         label = "tab:summary",
+         align = c("l", "c", "c", "c", "c", "c")) %>%
+  print(booktabs = TRUE, comment = FALSE, caption.placement = "top")
+```
 
 
 # Methods and Data Analysis
