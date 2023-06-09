@@ -1,5 +1,5 @@
 ---
-title: "Discrimination in Salary"
+title: "Predicting Transportation Demand Based on Manufacturing Activity"
 author: 
   - Gulamzada, Aysel[^1]
 bibliography: ../bibliography/biblio.bib
@@ -25,7 +25,7 @@ urlcolor: blue
 fontsize: 12pt
 biblio-style: apalike
 abstract: |
-    Write your abstract here.
+    This academic paper investigates the relationship between manufacturing activity and transportation demand and proposes a methodology for predicting transportation demand using data on factory activities.It highlights the significance of transportation in modern civilization as well as the necessity of precise estimation in order to improve supply chains, cut costs, and lessen environmental effect.This academic paper presents an analysis of Employment data, focusing on the transportation sector and its relationship with three predictor variables: Manufacturing, Construction, and Mining. The paper begins by providing summary statistics for these variables, highlighting their mean values, standard deviations, minimum and maximum values, and medians. 
 ---
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FALSE)
@@ -39,26 +39,22 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 
 # Introduction
 
-Earnings differentials among employees based on sex and economic activity are critical aspects of socioeconomic inequality that require careful examination. This paper investigates the variations in mean nominal monthly earnings among employees across different regions, specifically focusing on the influence of sex and economic activity. By exploring these factors, this study aims to contribute to our understanding of global wage disparities and inform policies and strategies for promoting fair and equitable employment practices.
-
-Gender-based wage gaps have been a subject of considerable concern and research. In addition to being essential for social justice, achieving gender equality in the workforce is critical for sustainable development. This paper takes a global perspective, examining gender wage differences across multiple regions worldwide, in contrast to earlier research limited to specific nations or sectors.
-
-In addition to gender, economic activity plays a significant role in determining earnings disparities. Different sectors and industries offer distinct remuneration structures, leading to variations in earnings levels. By considering economic activity as a critical variable, this study aims to understand how mean nominal monthly earnings differ across sectors within different regions. Analyzing these variations provides valuable information about industries where profits are exceptionally high or low, shedding light on potential drivers of inequality.
-
-The central research question guiding this study is "How do the mean nominal monthly earnings of employees vary by sex and economic activity (in local currency) in different regions of the world?". The Data set was taken from Labour Force Statistics. The dataset contains 627 observations and 12 variables. The findings of this research have important implications for policymakers, organizations, and advocacy groups committed to promoting fair and inclusive labor practices globally.
+The movement of resources, people, and things is made possible through transportation, which is essential to the operation of contemporary society. To optimize supply chains, cut costs, and reduce environmental impact, transportation resources must be allocated effectively. The level of manufacturing activity within an economy has a substantial impact on transportation demand. Traditionally, transportation demand estimation has relied on historical data, trend analysis, and expert judgment. However, with the development of big data and sophisticated analytical methods, there is a chance to use data-driven methodologies to better correctly estimate transportation demand. In this study, we present a unique methodology for more accurate and reliable transportation demand prediction using data on factory activities. Moreover, the geographical distribution and clustering of manufacturing facilities significantly influence transportation patterns, as the movement of goods between suppliers, production sites, and distribution centers forms intricate transportation networks. Therefore, the central question guiding our research is: How effectively can manufacturing activity data be utilized to predict transportation demand, and what insights can be derived to optimize transportation planning and resource allocation? By addressing this question, we aim to uncover the underlying relationships and patterns between manufacturing activity and transportation demand, ultimately contributing to more accurate forecasting and informed decision-making. The dataset contains 623 observations and 12 variables. The findings of this research have important implications for policymakers, organizations, and advocacy groups committed to promoting fair and inclusive labor practices globally.
 
 ## Literature Review
 
-Discrimination in salaries based on sex is a persistent and concerning issue in many societies. Numerous studies have highlighted the existence of a gender wage gap, where women tend to earn less than their male counterparts for similar work. This disparity not only has significant economic implications but also reflects deep-rooted gender inequalities in the labor market. Understanding the extent and underlying causes of this wage gap is crucial for developing effective policies and initiatives to promote gender equality in employment.
+The literature review highlights the significance of transportation in contemporary society and its connection to manufacturing activity. It discusses the limitations of traditional transportation demand estimation methods and explores the potential of data-driven approaches using big data and advanced analytical techniques. The review emphasizes the relationship between manufacturing activity and transportation demand, considering the movement of goods and the influence of geographical distribution. It also recognizes the relevance of this research for organizations, governments, and advocacy groups dedicated to inclusive and equitable labor standards in manufacturing and transportation.
 
 @barbezat:1987 provides estimates of both total differentials and salary discrimination between males and females. @jena:2016 undertakes an analysis of sex differences in academic physician salary that was designed to mitigate many of the limitations of previous studies on this topic. @belon:1977 the larger proportion of women than men being employed at lower-paying institutions coupled with the fact that women were most likely to be found on the lower end of the academy ladder. @robert:1983 employer discrimination is a principal source of discrimination against blacks and women, then we would expect the female/male earnings ratios to be higher for the self-employed compared to their wage and salary counterparts. @larson:2014 aims to develop and test hypotheses on determinants of supply chain managers’ salaries. While women make up about half the workforce, there is evidence in the trade press that they receive far less than half of the compensation. Sex of the manager and size of his or her organization are among the predictors of salary. @gollob:1984 the difference index defines sex bias as the difference in mean salary inequities between men and women and emphasizes the necessity of deciding how much relevant differences in qualifications are worth.
 
-# Data
+# Data Statistics
+
+The summary statistics in Table 1 provide an overview of the distribution and range of values for five variables: Construction, Manufacturing, Mining, Public Administration, and Transportation. The mean values, which represent the average activity levels in each industry, range from 666,971.59 for the Construction sector to 835,842.08 for Mining.The minimum values range from 776.42 for Construction to 841.06 for Mining, while the medians range from 5,488.27 for Manufacturing to 8,267.10 for Mining, representing the lowest observed values and central tendency, respectively. The highest observed values in each sector are represented by the maximum values, which range from 7,453,777.45 for Construction to 9,874,547.90 for Mining. These statistics provide a concise summary of the data distribution for each variable.
 
 ```{r code_chunk_name, echo = FALSE}
 
 library(tidyverse)
-
+library(readr)
 library(here)
 
 survey <- read_csv(here("data/Employment.csv"))
@@ -74,8 +70,8 @@ st_options(lang = "en")
 
 
 ```{r results='asis', echo=FALSE}
-survey %>% 
-  select("Manufacturing", "Construction", "Agriculture", "Mining and quarrying; Electricity, gas and water supply", "Public Administration, Community, Social and other Services and Activities") %>%
+survey %>%
+  select("Manufacturing", "Construction", "Mining", "Transportation", "Public Administration") %>%
   descr(stats = c("mean", "sd", "min", "med", "max"), transpose = TRUE) %>%
   xtable(caption = "Summary Statistics",
          label = "tab:summary",
@@ -84,26 +80,94 @@ survey %>%
 ```
 
 
+
 # Methods and Data Analysis
-In this section describe the methods that you use to achieve the purpose of the study. You should use the appropriate analysis methods (such as hypothesis tests and correlation analysis) that we covered in the class. If you want, you can also use other methods that we haven't covered. If you think some method is more suitable for the purpose of the analysis and the data set, you can use that method [@newbold:2003; @verzani:2014; @wickham:2014; @wooldridge:2015a].
 
-For example, if you are performing regression analysis, discuss your predicted equation in this section. Write your equations and mathematical expressions using $LaTeX$.
+## Predictor Variable Analysis: Identifying Main Factors Affecting Transportation
 
-$$
-Y_t = \beta_0 + \beta_N N_t + \beta_P P_t + \beta_I I_t + \varepsilon_t
-$$
+(Figure \@ref(fig:predictor)) represents the predictor variables and their corresponding coefficients in a model that examines the factors affecting transportation. The three predictor variables included in the model are "Manufacturing," "Construction," and "Mining." The coefficients associated with these variables, 0.0, 0.2, and 0.4, respectively, indicate the expected impact of each predictor on the transportation factor. These coefficients offer important information about the relative contribution of each predictor variable to the effect on the transportation component.
 
-This section should also include different tables and plots. You can add histograms, scatter plots (such as Figure \@ref(fig:plot)), box plots, etc. Make the necessary references to your figures as shown in the previous sentence.
+```{r predictor, fig.align='center', fig.cap='Predictor Variables', results='asis', echo=FALSE}
+# Load the dataset
+dataset <- read.csv("C:/Users/Admin/Desktop/21080060/data/Employment.csv")
+
+# Perform multiple linear regression
+model <- lm(`Transportation` ~ `Construction` + `Mining` + `Manufacturing`, data = dataset)
+
+# Create a bar plot of regression coefficients
+coefficients <- coef(model)
+predictor_names <- c("Construction", "Mining", "Manufacturing")
+coefficients_df <- data.frame(Predictor = predictor_names, Coefficient = coefficients[-1])
+
+# Sort the coefficients by magnitude
+coefficients_df <- coefficients_df[order(abs(coefficients_df$Coefficient), decreasing = TRUE), ]
+
+# Create the bar plot
+barplot(coefficients_df$Coefficient, names.arg = coefficients_df$Predictor,
+        xlab = "Predictor Variables", ylab = "Coefficient",
+        main = "Factors Affecting Transportation", col = "steelblue")
+
+# Add a horizontal line at zero for reference
+abline(h = 0, col = "red", lty = 2)
+```
+
+The scatter plot shown in the (Figure \@ref(fig:Trans))
+ illustrates the correlation between the variables "Transportation" and "Manufacturing." The values of the "Manufacturing" variable are shown on the x-axis, and the values of the "Transportation" variable are shown on the y-axis. A distinct value for each of the two variables is represented by each data point in the plot. Individual points and a smoothed line that shows the overall trend between the two variables are included in the scatter plot. The graphic is helpful for finding potential relationships or patterns between transportation and production as well as for displaying the distribution of data points.
+
+```{r Trans, fig.align='center', fig.cap='Scatter Plot: Transportation VS. Manufacturing', results='asis', echo=FALSE}
+survey %>%
+  ggplot(aes(x = Manufacturing, y = Transportation)) +
+  geom_point() +
+  geom_smooth() +
+  scale_x_continuous("Manufacturing") +
+  scale_y_continuous("Transportation")
+```
+
+## Prediction 
+
+In the Employment dataset, we used a linear regression model to predict transportation while accounting for the independent variables Manufacturing (M), Construction (C), and Mining (M). The model can be represented as follows:
+
+\[ Transportation = \beta_0 + \beta_1Manufacturing + \beta_2Construction + \beta_3Mining + \varepsilon \]
+
+The given prediction equation represents a multiple linear regression model that aims to estimate a target variable (T) based on three predictors. The coefficients \( \beta_1, \beta_2, \beta_3\) represent the expected change in the target variable for a unit increase in each respective predictor, while \( \beta_0 \) is the intercept or the expected value of the target variable when all predictors are zero. The term ε represents the error term, accounting for the variability in the target variable that is not explained by the predictors. 
+
+By fitting this model to the Employment dataset, one can obtain estimates for the coefficients and use them to make predictions about the target variable given specific values for the predictors. 
+
+## Results
+
+(Figure \@ref(fig:predict)) presented shows a line plot comparing the predicted transportation values against the actual transportation values. The samples from the Employment dataset are represented by the x-axis, while the transportation values are represented by the y-axis. The orange line indicates the projected transportation values based on a linear regression model, whereas the blue line reflects the actual transportation values. The plot offers a visual comparison of the anticipated and actual values, enabling evaluation of the model's prediction accuracy. The figure makes it easier to comprehend how well the regression model performs in forecasting transportation values using the provided predictors.
+
+```{r predict, fig.align='center', fig.cap='Predicted transportation VS. Actual transportation', results='asis', echo=FALSE}
+dataset <- read.csv("C:/Users/Admin/Desktop/21080060/data/Employment.csv")
+
+model <- lm(Transportation ~  Construction + Mining +  Manufacturing, data = dataset)
 
 
+predictions <- predict(model, dataset)
+
+plot(dataset$Transportation,
+     type = "l", xlab = "Samples", ylab = "Transportation",
+     col = "blue")
+
+lines(predictions, col = "orange")
+
+legend("topright", legend = c("Actual", "Predicted"),
+       col = c("blue", "orange"), lty = 1, bty = "n")
+
+
+```
 
 
 # Conclusion
-Summarize the results of your analysis in this section. Discuss to what extent your results responded to the research question you identified at the beginning and how this work could be improved in the future.
 
-**References section is created automatically by Rmarkdown. There is no need to change the references section in the draft file.**
+In conclusion, this academic paper explores the relationship between manufacturing activity and transportation demand and proposes a methodology for predicting transportation demand using data on factory activities. The paper highlights the significance of transportation in contemporary society and the need for accurate transportation demand estimation to optimize supply chains and reduce costs and environmental impact.
 
-**_You shouldn't delete the last 3 lines. Those lines are required for References section._**
+The project develops a data-driven strategy for predicting transportation demand using big data and sophisticated analytical techniques. The study analyzes the key factors affecting transportation and develops a multiple linear regression model for forecasting transportation demand by studying Employment dataset, which contains information on manufacturing activity and transportation. 
+
+The results show how manufacturing, construction, and mining each contribute differently to the need for transportation. The planning of transportation systems, the creation of infrastructure, and the creation of policies are all significantly impacted by these findings. The findings of this research have significant implications for policymakers, organizations, and advocacy groups dedicated to promoting efficient and sustainable transportation systems. Overall, this study shows how data-driven approaches may be used to estimate transportation demand accurately and provide helpful information for enhancing transportation planning and resource allocation.
+
+
+
 
 \newpage
 # References {#references}

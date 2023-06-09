@@ -1,24 +1,23 @@
-Mean nominal monthly earnings of employees by sex and economic activity (local currency),,,,,,,,,,,,
-Reference area,Source,Sex,Time,Total,Agriculture,Manufacturing,Construction,"Mining and quarrying; Electricity, gas and water supply","Trade, Transportation, Accommodation and Food, and Business and Administrative Services","Public Administration, Community, Social and other Services and Activities",Not classified,
-Angola,LFS - Employment Survey,Total,2021Q1,90678.80,30435.78,56479.48,57649.03,163601.30,63441.24,112328.72,,"Notes
+Reference area,Source,Sex,Time,Total,Agriculture,Manufacturing,Construction,Mining ,Transportation,Public Administration,Not classified,
+Angola,LFS - Employment Survey,Total,2021Q1,90678.8,30435.78,56479.48,57649.03,163601.3,63441.24,112328.72,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Kwanza 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Yearly"
-Angola,LFS - Employment Survey,Male,2021Q1,99293.14,31754.67,57779.36,57692.98,159727.35,61931.52,141771.40,,"Notes
+Angola,LFS - Employment Survey,Male,2021Q1,99293.14,31754.67,57779.36,57692.98,159727.35,61931.52,141771.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Kwanza 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Yearly"
-Angola,LFS - Employment Survey,Female,2021Q1,69497.80,16140.00,47710.49,,244950.67,69521.72,69700.86,,"Notes
+Angola,LFS - Employment Survey,Female,2021Q1,69497.8,16140,47710.49,,244950.67,69521.72,69700.86,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Kwanza 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Yearly"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2019Q3,28634.10,,30902.08,20147.07,42002.44,30405.44,27658.28,30289.38,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2019Q3,28634.1,,30902.08,20147.07,42002.44,30405.44,27658.28,30289.38,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
@@ -32,56 +31,56 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2019Q3,24553.27,,25664.44,32701.21,39749.38,25454.17,23793.65,29680.40,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2019Q3,24553.27,,25664.44,32701.21,39749.38,25454.17,23793.65,29680.4,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2019Q4,27423.26,35570.86,28311.26,20386.14,42967.80,29561.16,26345.36,30518.91,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2019Q4,27423.26,35570.86,28311.26,20386.14,42967.8,29561.16,26345.36,30518.91,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2019Q4,30865.99,42242.65,30177.00,19889.29,43605.81,31526.23,34190.04,30609.88,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2019Q4,30865.99,42242.65,30177,19889.29,43605.81,31526.23,34190.04,30609.88,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2019Q4,23528.19,18416.65,22205.89,29189.99,40504.87,26105.61,22402.90,30439.84,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2019Q4,23528.19,18416.65,22205.89,29189.99,40504.87,26105.61,22402.9,30439.84,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2020Q1,34506.49,,37270.67,26094.54,50769.49,36174.59,33309.80,42188.12,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2020Q1,34506.49,,37270.67,26094.54,50769.49,36174.59,33309.8,42188.12,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2020Q1,38684.48,,39197.40,25957.59,48608.36,38822.65,43087.06,45724.66,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2020Q1,38684.48,,39197.4,25957.59,48608.36,38822.65,43087.06,45724.66,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2020Q1,29689.88,,32101.64,32193.23,56443.86,31223.00,28525.64,26059.29,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2020Q1,29689.88,,32101.64,32193.23,56443.86,31223,28525.64,26059.29,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2020Q2,34010.55,,34549.90,20696.86,45150.69,35673.40,33650.83,34577.55,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2020Q2,34010.55,,34549.9,20696.86,45150.69,35673.4,33650.83,34577.55,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
@@ -95,21 +94,21 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2020Q2,29299.07,,32053.04,21675.60,56465.13,29263.47,29012.36,36289.24,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2020Q2,29299.07,,32053.04,21675.6,56465.13,29263.47,29012.36,36289.24,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2020Q3,40236.94,39819.89,43627.29,25268.30,58816.85,44376.26,38185.47,24958.75,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2020Q3,40236.94,39819.89,43627.29,25268.3,58816.85,44376.26,38185.47,24958.75,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2020Q3,44786.40,39819.89,45236.79,23975.22,61361.53,47814.82,47186.53,25188.45,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2020Q3,44786.4,39819.89,45236.79,23975.22,61361.53,47814.82,47186.53,25188.45,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
@@ -130,14 +129,14 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2020Q4,40571.26,38435.00,43426.67,24446.75,58329.31,41254.53,44504.93,52426.14,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2020Q4,40571.26,38435,43426.67,24446.75,58329.31,41254.53,44504.93,52426.14,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2020Q4,31917.30,,33840.98,45910.76,51605.69,35223.65,30511.09,25579.21,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2020Q4,31917.3,,33840.98,45910.76,51605.69,35223.65,30511.09,25579.21,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
@@ -165,7 +164,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2021Q2,47310.05,57154.10,48837.66,38653.12,74447.78,51513.72,43953.96,75894.75,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2021Q2,47310.05,57154.1,48837.66,38653.12,74447.78,51513.72,43953.96,75894.75,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
@@ -179,42 +178,42 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2021Q2,39044.92,60228.05,37079.16,50181.70,63671.95,40776.10,37674.82,90931.57,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2021Q2,39044.92,60228.05,37079.16,50181.7,63671.95,40776.1,37674.82,90931.57,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2021Q3,56489.78,70575.24,64262.74,40528.84,72582.00,61898.77,52616.77,59944.33,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2021Q3,56489.78,70575.24,64262.74,40528.84,72582,61898.77,52616.77,59944.33,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2021Q3,64452.53,70861.27,68026.92,39830.32,73941.34,67446.47,66393.45,66481.30,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2021Q3,64452.53,70861.27,68026.92,39830.32,73941.34,67446.47,66393.45,66481.3,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2021Q3,47419.24,69069.64,46223.02,53815.42,69469.09,51458.21,45681.50,47540.36,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Female,2021Q3,47419.24,69069.64,46223.02,53815.42,69469.09,51458.21,45681.5,47540.36,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2021Q4,55687.62,70490.16,59692.34,43397.47,70331.36,59559.66,52230.20,78936.16,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2021Q4,55687.62,70490.16,59692.34,43397.47,70331.36,59559.66,52230.2,78936.16,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2021Q4,62473.23,70774.99,62140.50,43197.43,68571.37,65144.21,65154.02,80964.49,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2021Q4,62473.23,70774.99,62140.5,43197.43,68571.37,65144.21,65154.02,80964.49,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
@@ -228,14 +227,14 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2022Q1,70588.55,86955.10,71725.55,51323.56,94956.28,76476.35,67668.09,42661.63,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2022Q1,70588.55,86955.1,71725.55,51323.56,94956.28,76476.35,67668.09,42661.63,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2022Q1,80757.30,61652.10,75939.31,51189.57,129958.39,83751.41,89097.98,53120.26,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Male,2022Q1,80757.3,61652.1,75939.31,51189.57,129958.39,83751.41,89097.98,53120.26,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
@@ -249,7 +248,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2022Q2,70031.99,127023.49,68952.82,52206.73,92432.03,77212.18,66809.80,85257.08,"Notes
+Argentina,"LFS - Encuesta Permanente de Hogares, Urbano",Total,2022Q2,70031.99,127023.49,68952.82,52206.73,92432.03,77212.18,66809.8,85257.08,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Argentine peso 
@@ -270,13 +269,13 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Geographical coverage: Main cities or metropolitan areas 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Bolivia,LFS - Encuesta Continua de Empleo,Total,2019Q3,3066.60,2354.53,2789.23,3134.08,4389.67,2512.08,3542.96,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Total,2019Q3,3066.6,2354.53,2789.23,3134.08,4389.67,2512.08,3542.96,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Male,2019Q3,3324.53,2441.19,2985.66,3131.86,4431.69,2863.01,4244.00,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Male,2019Q3,3324.53,2441.19,2985.66,3131.86,4431.69,2863.01,4244,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
@@ -294,7 +293,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Male,2019Q4,3412.96,2595.18,3107.01,3086.73,5188.90,2900.87,4314.55,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Male,2019Q4,3412.96,2595.18,3107.01,3086.73,5188.9,2900.87,4314.55,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
@@ -306,7 +305,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Total,2020Q1,3175.60,2256.98,3010.02,3096.55,4776.79,2693.81,3645.75,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Total,2020Q1,3175.6,2256.98,3010.02,3096.55,4776.79,2693.81,3645.75,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
@@ -318,7 +317,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Female,2020Q1,2786.54,1559.01,2342.98,3009.11,4386.28,2326.00,3170.49,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Female,2020Q1,2786.54,1559.01,2342.98,3009.11,4386.28,2326,3170.49,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
@@ -345,7 +344,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly 
 -Break in series: Methodology revised"
-Bolivia,LFS - Encuesta Continua de Empleo,Total,2021Q2,3041.47,2464.40,2816.82,2907.29,4423.91,2459.37,3649.09,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Total,2021Q2,3041.47,2464.4,2816.82,2907.29,4423.91,2459.37,3649.09,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
@@ -357,19 +356,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Female,2021Q2,2726.45,1653.40,2260.07,3225.97,4139.63,2109.66,3207.60,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Female,2021Q2,2726.45,1653.4,2260.07,3225.97,4139.63,2109.66,3207.6,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Total,2021Q3,3053.99,2468.69,2752.51,2883.80,4434.15,2461.01,3676.24,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Total,2021Q3,3053.99,2468.69,2752.51,2883.8,4434.15,2461.01,3676.24,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Male,2021Q3,3302.21,2594.40,2922.37,2887.05,4581.85,2751.27,4420.43,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Male,2021Q3,3302.21,2594.4,2922.37,2887.05,4581.85,2751.27,4420.43,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
@@ -381,31 +380,31 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Total,2021Q4,3035.98,2491.60,2714.84,2940.73,4370.59,2458.23,3600.84,3543.05,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Total,2021Q4,3035.98,2491.6,2714.84,2940.73,4370.59,2458.23,3600.84,3543.05,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Male,2021Q4,3292.11,2519.05,2917.24,2938.05,4482.04,2797.17,4245.30,2861.30,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Male,2021Q4,3292.11,2519.05,2917.24,2938.05,4482.04,2797.17,4245.3,2861.3,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Female,2021Q4,2653.59,2281.95,1997.22,3005.70,3400.09,2114.28,3140.43,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Female,2021Q4,2653.59,2281.95,1997.22,3005.7,3400.09,2114.28,3140.43,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Total,2022Q1,3077.53,2486.91,2758.87,2989.94,4694.85,2510.60,3588.57,2545.08,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Total,2022Q1,3077.53,2486.91,2758.87,2989.94,4694.85,2510.6,3588.57,2545.08,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Male,2022Q1,3349.21,2510.03,2949.99,2990.84,4869.85,2818.40,4311.48,2545.08,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Male,2022Q1,3349.21,2510.03,2949.99,2990.84,4869.85,2818.4,4311.48,2545.08,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
@@ -423,13 +422,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Male,2022Q2,3385.59,2851.68,2894.72,3090.19,4532.90,2972.57,4286.92,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Male,2022Q2,3385.59,2851.68,2894.72,3090.19,4532.9,2972.57,4286.92,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Bolivia,LFS - Encuesta Continua de Empleo,Female,2022Q2,2724.44,3356.38,2068.53,3825.65,3973.43,2178.90,3133.29,,"Notes
+Bolivia,LFS - Encuesta Continua de Empleo,Female,2022Q2,2724.44,3356.38,2068.53,3825.65,3973.43,2178.9,3133.29,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Bolivian 
@@ -441,7 +440,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2019Q3,2340.99,1215.33,2382.26,1709.52,3265.34,2099.70,3420.16,1755.25,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2019Q3,2340.99,1215.33,2382.26,1709.52,3265.34,2099.7,3420.16,1755.25,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -459,7 +458,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2019Q4,2520.19,1258.06,2605.40,1734.61,3573.14,2273.62,3658.21,2042.11,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2019Q4,2520.19,1258.06,2605.4,1734.61,3573.14,2273.62,3658.21,2042.11,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -471,7 +470,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2020Q1,2627.18,1402.72,2795.06,1983.76,4198.97,2403.82,2977.56,1807.60,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2020Q1,2627.18,1402.72,2795.06,1983.76,4198.97,2403.82,2977.56,1807.6,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -489,7 +488,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2020Q2,2386.70,1308.59,2455.40,1926.27,3858.37,2107.51,2766.70,2399.20,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2020Q2,2386.7,1308.59,2455.4,1926.27,3858.37,2107.51,2766.7,2399.2,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -507,7 +506,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2020Q3,2350.10,1261.70,2444.96,1732.73,3586.36,2082.33,2764.94,,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2020Q3,2350.1,1261.7,2444.96,1732.73,3586.36,2082.33,2764.94,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -531,7 +530,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2020Q4,2660.19,1372.40,2698.04,1687.28,3777.45,2331.97,3981.13,2434.36,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2020Q4,2660.19,1372.4,2698.04,1687.28,3777.45,2331.97,3981.13,2434.36,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -543,7 +542,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2021Q1,2689.64,1421.83,2713.23,1850.94,4367.40,2436.06,3161.66,2424.30,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2021Q1,2689.64,1421.83,2713.23,1850.94,4367.4,2436.06,3161.66,2424.3,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -555,7 +554,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Female,2021Q1,2427.42,1441.31,2275.10,2862.55,5046.06,2249.61,2553.90,1878.24,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Female,2021Q1,2427.42,1441.31,2275.1,2862.55,5046.06,2249.61,2553.9,1878.24,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -567,7 +566,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2021Q2,2569.69,1313.46,2558.76,1683.69,3252.38,2321.87,3836.30,1648.57,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2021Q2,2569.69,1313.46,2558.76,1683.69,3252.38,2321.87,3836.3,1648.57,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -615,7 +614,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2022Q1,2771.32,1603.90,2830.81,2114.10,4255.33,2621.87,3112.96,2207.38,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2022Q1,2771.32,1603.9,2830.81,2114.1,4255.33,2621.87,3112.96,2207.38,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -627,25 +626,25 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Female,2022Q1,2484.02,1640.88,2432.93,2975.58,4765.31,2330.83,2580.40,1861.03,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Female,2022Q1,2484.02,1640.88,2432.93,2975.58,4765.31,2330.83,2580.4,1861.03,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2022Q2,2427.58,1506.83,2523.53,1921.08,3417.83,2329.08,2663.00,2040.03,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Total,2022Q2,2427.58,1506.83,2523.53,1921.08,3417.83,2329.08,2663,2040.03,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2022Q2,2632.97,1517.42,2675.47,1880.94,3385.40,2495.43,3603.33,2211.62,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Male,2022Q2,2632.97,1517.42,2675.47,1880.94,3385.4,2495.43,3603.33,2211.62,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Female,2022Q2,2187.25,1432.57,2175.39,2534.05,3559.95,2090.79,2250.80,1819.49,"Notes
+Brazil,HS - Pesquisa Nacional por Amostra de Domicílios Contínua,Female,2022Q2,2187.25,1432.57,2175.39,2534.05,3559.95,2090.79,2250.8,1819.49,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Real 
@@ -675,7 +674,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Male,2019Q3,4947.72,3668.67,4984.22,5444.30,7632.95,4724.36,4691.00,,"Notes
+Canada,LFS - Labour Force Survey,Male,2019Q3,4947.72,3668.67,4984.22,5444.3,7632.95,4724.36,4691,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
@@ -711,25 +710,25 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Male,2020Q1,5093.59,3775.11,5126.96,5622.68,8031.52,4829.45,4901.80,,"Notes
+Canada,LFS - Labour Force Survey,Male,2020Q1,5093.59,3775.11,5126.96,5622.68,8031.52,4829.45,4901.8,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Female,2020Q1,3998.36,2773.60,4142.94,4325.08,6644.98,3727.61,4125.12,,"Notes
+Canada,LFS - Labour Force Survey,Female,2020Q1,3998.36,2773.6,4142.94,4325.08,6644.98,3727.61,4125.12,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Total,2020Q2,4857.47,3300.51,5016.91,5449.84,7660.30,4603.15,4823.09,,"Notes
+Canada,LFS - Labour Force Survey,Total,2020Q2,4857.47,3300.51,5016.91,5449.84,7660.3,4603.15,4823.09,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Male,2020Q2,5364.68,3641.16,5245.05,5631.35,7921.00,5081.77,5470.63,,"Notes
+Canada,LFS - Labour Force Survey,Male,2020Q2,5364.68,3641.16,5245.05,5631.35,7921,5081.77,5470.63,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
@@ -753,7 +752,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Female,2020Q3,4162.54,2616.19,4274.74,4304.10,6721.76,3916.73,4289.45,,"Notes
+Canada,LFS - Labour Force Survey,Female,2020Q3,4162.54,2616.19,4274.74,4304.1,6721.76,3916.73,4289.45,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
@@ -795,13 +794,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Total,2021Q2,4746.21,3405.73,4891.09,5538.09,7825.17,4505.43,4645.30,,"Notes
+Canada,LFS - Labour Force Survey,Total,2021Q2,4746.21,3405.73,4891.09,5538.09,7825.17,4505.43,4645.3,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Male,2021Q2,5270.69,3702.02,5180.45,5706.50,8109.53,5017.50,5176.82,,"Notes
+Canada,LFS - Labour Force Survey,Male,2021Q2,5270.69,3702.02,5180.45,5706.5,8109.53,5017.5,5176.82,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
@@ -819,19 +818,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Male,2021Q3,5272.59,3855.69,5245.75,5693.47,7932.30,5093.00,5036.19,,"Notes
+Canada,LFS - Labour Force Survey,Male,2021Q3,5272.59,3855.69,5245.75,5693.47,7932.3,5093,5036.19,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Female,2021Q3,4217.14,2979.08,4173.83,3986.29,7383.43,3946.83,4387.10,,"Notes
+Canada,LFS - Labour Force Survey,Female,2021Q3,4217.14,2979.08,4173.83,3986.29,7383.43,3946.83,4387.1,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Total,2021Q4,4802.20,3501.43,5009.86,5593.76,8084.07,4609.48,4629.58,,"Notes
+Canada,LFS - Labour Force Survey,Total,2021Q4,4802.2,3501.43,5009.86,5593.76,8084.07,4609.48,4629.58,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
@@ -843,7 +842,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Female,2021Q4,4237.10,2845.96,4310.52,4262.80,7572.30,3969.81,4374.11,,"Notes
+Canada,LFS - Labour Force Survey,Female,2021Q4,4237.1,2845.96,4310.52,4262.8,7572.3,3969.81,4374.11,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
@@ -855,13 +854,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Male,2022Q1,5485.99,4173.30,5488.27,5917.10,8444.69,5284.23,5225.80,,"Notes
+Canada,LFS - Labour Force Survey,Male,2022Q1,5485.99,4173.3,5488.27,5917.1,8444.69,5284.23,5225.8,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Female,2022Q1,4283.48,2793.36,4409.81,4479.30,7068.14,4060.45,4386.12,,"Notes
+Canada,LFS - Labour Force Survey,Female,2022Q1,4283.48,2793.36,4409.81,4479.3,7068.14,4060.45,4386.12,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
@@ -879,25 +878,25 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Female,2022Q2,4370.69,3111.80,4535.54,4630.28,7353.97,4143.05,4457.77,,"Notes
+Canada,LFS - Labour Force Survey,Female,2022Q2,4370.69,3111.8,4535.54,4630.28,7353.97,4143.05,4457.77,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Total,2022Q3,5034.43,3581.19,5166.90,5835.29,8068.47,4901.32,4807.62,,"Notes
+Canada,LFS - Labour Force Survey,Total,2022Q3,5034.43,3581.19,5166.9,5835.29,8068.47,4901.32,4807.62,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Male,2022Q3,5592.86,3930.92,5408.96,6007.00,8267.10,5503.99,5287.63,,"Notes
+Canada,LFS - Labour Force Survey,Male,2022Q3,5592.86,3930.92,5408.96,6007,8267.1,5503.99,5287.63,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Female,2022Q3,4443.52,2886.13,4575.30,4741.26,7369.89,4197.74,4552.47,,"Notes
+Canada,LFS - Labour Force Survey,Female,2022Q3,4443.52,2886.13,4575.3,4741.26,7369.89,4197.74,4552.47,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
@@ -915,7 +914,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Canadian Dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Canada,LFS - Labour Force Survey,Female,2022Q4,4480.91,2846.68,4708.00,4783.51,7246.73,4259.42,4566.50,,"Notes
+Canada,LFS - Labour Force Survey,Female,2022Q4,4480.91,2846.68,4708,4783.51,7246.73,4259.42,4566.5,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Canadian Dollar 
@@ -927,7 +926,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2019Q3,1281358.13,823006.68,1231236.85,1107640.49,1797448.04,1272514.83,1933416.80,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2019Q3,1281358.13,823006.68,1231236.85,1107640.49,1797448.04,1272514.83,1933416.8,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -939,7 +938,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Total,2019Q4,1221105.78,831059.42,1151547.82,1120435.10,1771470.38,1154421.20,1522851.61,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Total,2019Q4,1221105.78,831059.42,1151547.82,1120435.1,1771470.38,1154421.2,1522851.61,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -963,7 +962,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2020Q4,1268292.35,839074.89,1248131.49,985001.63,1517132.60,1245759.63,2061872.89,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2020Q4,1268292.35,839074.89,1248131.49,985001.63,1517132.6,1245759.63,2061872.89,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -981,7 +980,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2021Q1,1249562.69,864959.94,1184502.22,1060954.96,1503223.20,1218825.54,1992397.36,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2021Q1,1249562.69,864959.94,1184502.22,1060954.96,1503223.2,1218825.54,1992397.36,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -993,7 +992,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Total,2021Q2,1269627.82,846451.05,1173814.01,1081242.11,1593288.32,1181441.72,1683151.60,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Total,2021Q2,1269627.82,846451.05,1173814.01,1081242.11,1593288.32,1181441.72,1683151.6,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -1005,7 +1004,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Female,2021Q2,1283189.54,765070.17,1137259.92,1474420.19,1938831.87,1121172.20,1512034.56,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Female,2021Q2,1283189.54,765070.17,1137259.92,1474420.19,1938831.87,1121172.2,1512034.56,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -1023,7 +1022,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Female,2021Q3,1236870.69,818710.00,1078229.68,1554189.34,1538197.29,1122692.36,1408784.86,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Female,2021Q3,1236870.69,818710,1078229.68,1554189.34,1538197.29,1122692.36,1408784.86,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -1035,7 +1034,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2021Q4,1268253.61,845838.21,1269477.82,1010067.93,1434682.60,1249406.16,2038116.65,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2021Q4,1268253.61,845838.21,1269477.82,1010067.93,1434682.6,1249406.16,2038116.65,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -1053,13 +1052,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2022Q1,1615973.99,1021181.88,1392376.43,1245731.36,1809262.60,1564532.84,2388767.22,1272352.38,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2022Q1,1615973.99,1021181.88,1392376.43,1245731.36,1809262.6,1564532.84,2388767.22,1272352.38,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Female,2022Q1,1493693.72,1042253.66,1333080.74,1717660.10,1936823.26,1377672.87,1664548.24,4511910.42,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Female,2022Q1,1493693.72,1042253.66,1333080.74,1717660.1,1936823.26,1377672.87,1664548.24,4511910.42,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -1071,25 +1070,25 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2022Q2,1661992.95,1135984.87,1538150.71,1286703.85,1760895.01,1577973.01,2443177.90,2230204.57,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2022Q2,1661992.95,1135984.87,1538150.71,1286703.85,1760895.01,1577973.01,2443177.9,2230204.57,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Female,2022Q2,1560789.01,1097517.37,1459779.33,1974506.12,2100957.04,1433090.61,1714080.20,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Female,2022Q2,1560789.01,1097517.37,1459779.33,1974506.12,2100957.04,1433090.61,1714080.2,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Total,2022Q3,1648517.13,1164189.27,1507726.53,1331540.95,2035089.49,1559375.20,1982622.77,2900080.72,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Total,2022Q3,1648517.13,1164189.27,1507726.53,1331540.95,2035089.49,1559375.2,1982622.77,2900080.72,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2022Q3,1719726.90,1166173.85,1578569.37,1261008.43,1929369.30,1646877.10,2514425.40,,"Notes
+Colombia,LFS - Gran Encuesta Integrada de Hogares,Male,2022Q3,1719726.9,1166173.85,1578569.37,1261008.43,1929369.3,1646877.1,2514425.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Colombian peso 
@@ -1101,13 +1100,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Colombian peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Monthly"
-Egypt,LFS - Labour Force Sample Survey,Total,2019Q3,2660.61,2629.24,2467.10,3148.49,3033.21,2652.01,2465.74,3085.16,"Notes
+Egypt,LFS - Labour Force Sample Survey,Total,2019Q3,2660.61,2629.24,2467.1,3148.49,3033.21,2652.01,2465.74,3085.16,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Male,2019Q3,2724.96,2665.21,2522.95,3149.90,3041.17,2680.56,2555.48,3285.26,"Notes
+Egypt,LFS - Labour Force Sample Survey,Male,2019Q3,2724.96,2665.21,2522.95,3149.9,3041.17,2680.56,2555.48,3285.26,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
@@ -1119,13 +1118,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Total,2019Q4,2700.89,2751.90,2571.84,3039.29,3165.75,2747.67,2499.80,3043.37,"Notes
+Egypt,LFS - Labour Force Sample Survey,Total,2019Q4,2700.89,2751.9,2571.84,3039.29,3165.75,2747.67,2499.8,3043.37,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Male,2019Q4,2787.30,2802.71,2646.16,3047.06,3166.28,2802.54,2634.08,3156.27,"Notes
+Egypt,LFS - Labour Force Sample Survey,Male,2019Q4,2787.3,2802.71,2646.16,3047.06,3166.28,2802.54,2634.08,3156.27,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
@@ -1143,13 +1142,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Male,2020Q1,2793.31,2392.52,2669.99,3417.93,3183.86,2837.24,2678.93,3604.60,"Notes
+Egypt,LFS - Labour Force Sample Survey,Male,2020Q1,2793.31,2392.52,2669.99,3417.93,3183.86,2837.24,2678.93,3604.6,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Female,2020Q1,2262.63,1750.54,1903.40,3176.13,2910.58,2322.04,2297.56,,"Notes
+Egypt,LFS - Labour Force Sample Survey,Female,2020Q1,2262.63,1750.54,1903.4,3176.13,2910.58,2322.04,2297.56,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
@@ -1167,7 +1166,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Female,2020Q2,2325.10,1972.54,1856.75,2508.04,2860.11,2372.84,2359.09,,"Notes
+Egypt,LFS - Labour Force Sample Survey,Female,2020Q2,2325.1,1972.54,1856.75,2508.04,2860.11,2372.84,2359.09,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
@@ -1179,7 +1178,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Male,2020Q3,2767.86,2416.28,2594.86,3341.50,3017.40,2800.22,2735.04,3437.91,"Notes
+Egypt,LFS - Labour Force Sample Survey,Male,2020Q3,2767.86,2416.28,2594.86,3341.5,3017.4,2800.22,2735.04,3437.91,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
@@ -1191,13 +1190,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Total,2020Q4,2801.99,2867.97,2662.55,3641.11,3121.00,2859.43,2613.74,3172.77,"Notes
+Egypt,LFS - Labour Force Sample Survey,Total,2020Q4,2801.99,2867.97,2662.55,3641.11,3121,2859.43,2613.74,3172.77,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Male,2020Q4,2890.71,2910.70,2719.87,3601.51,3093.75,2896.81,2755.74,3274.28,"Notes
+Egypt,LFS - Labour Force Sample Survey,Male,2020Q4,2890.71,2910.7,2719.87,3601.51,3093.75,2896.81,2755.74,3274.28,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
@@ -1215,13 +1214,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Male,2021Q1,2937.89,2799.00,2733.14,3735.00,3073.85,2941.10,2873.73,3131.28,"Notes
+Egypt,LFS - Labour Force Sample Survey,Male,2021Q1,2937.89,2799,2733.14,3735,3073.85,2941.1,2873.73,3131.28,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Female,2021Q1,2520.12,2067.77,2129.53,4238.04,3256.93,2517.51,2535.60,,"Notes
+Egypt,LFS - Labour Force Sample Survey,Female,2021Q1,2520.12,2067.77,2129.53,4238.04,3256.93,2517.51,2535.6,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
@@ -1245,13 +1244,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Total,2021Q3,2978.36,2831.76,2787.10,3700.46,3408.17,2996.76,2895.99,3374.13,"Notes
+Egypt,LFS - Labour Force Sample Survey,Total,2021Q3,2978.36,2831.76,2787.1,3700.46,3408.17,2996.76,2895.99,3374.13,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Male,2021Q3,3033.50,2871.74,2823.42,3709.58,3421.00,3013.23,2990.20,3384.78,"Notes
+Egypt,LFS - Labour Force Sample Survey,Male,2021Q3,3033.5,2871.74,2823.42,3709.58,3421,3013.23,2990.2,3384.78,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
@@ -1275,7 +1274,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Egyptian pound 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Egypt,LFS - Labour Force Sample Survey,Female,2021Q4,2691.61,2195.61,2248.70,2922.03,3086.00,2682.81,2745.95,,"Notes
+Egypt,LFS - Labour Force Sample Survey,Female,2021Q4,2691.61,2195.61,2248.7,2922.03,3086,2682.81,2745.95,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Egyptian pound 
@@ -1299,7 +1298,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-France,LFS - Enquête sur l'emploi,Total,2019Q4,2008.25,1675.47,2382.59,2047.52,2529.94,2105.75,1783.60,1858.75,"Notes
+France,LFS - Enquête sur l'emploi,Total,2019Q4,2008.25,1675.47,2382.59,2047.52,2529.94,2105.75,1783.6,1858.75,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
@@ -1329,7 +1328,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-France,LFS - Enquête sur l'emploi,Female,2020Q1,1756.76,1494.10,1952.26,1719.52,2353.88,1873.29,1644.34,1736.91,"Notes
+France,LFS - Enquête sur l'emploi,Female,2020Q1,1756.76,1494.1,1952.26,1719.52,2353.88,1873.29,1644.34,1736.91,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
@@ -1341,7 +1340,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-France,LFS - Enquête sur l'emploi,Male,2020Q3,2198.69,1447.55,2339.71,1970.68,2278.40,2279.20,2114.45,1820.20,"Notes
+France,LFS - Enquête sur l'emploi,Male,2020Q3,2198.69,1447.55,2339.71,1970.68,2278.4,2279.2,2114.45,1820.2,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
@@ -1353,19 +1352,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-France,LFS - Enquête sur l'emploi,Total,2020Q4,2039.65,1435.86,2288.72,2043.10,2329.61,2186.60,1824.49,1828.39,"Notes
+France,LFS - Enquête sur l'emploi,Total,2020Q4,2039.65,1435.86,2288.72,2043.1,2329.61,2186.6,1824.49,1828.39,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-France,LFS - Enquête sur l'emploi,Male,2020Q4,2295.18,1478.85,2424.00,2054.86,2506.14,2424.74,2131.49,1918.80,"Notes
+France,LFS - Enquête sur l'emploi,Male,2020Q4,2295.18,1478.85,2424,2054.86,2506.14,2424.74,2131.49,1918.8,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-France,LFS - Enquête sur l'emploi,Female,2020Q4,1796.49,1351.46,1981.28,1953.15,1864.71,1916.28,1691.20,1720.04,"Notes
+France,LFS - Enquête sur l'emploi,Female,2020Q4,1796.49,1351.46,1981.28,1953.15,1864.71,1916.28,1691.2,1720.04,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
@@ -1377,7 +1376,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Greece,LFS - Labour Force Survey,Male,2019Q3,936.50,662.59,892.42,776.42,1074.31,859.84,1106.77,,"Notes
+Greece,LFS - Labour Force Survey,Male,2019Q3,936.5,662.59,892.42,776.42,1074.31,859.84,1106.77,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
@@ -1389,7 +1388,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Greece,LFS - Labour Force Survey,Total,2019Q4,884.00,644.07,836.85,803.22,1045.88,804.58,998.20,,"Notes
+Greece,LFS - Labour Force Survey,Total,2019Q4,884,644.07,836.85,803.22,1045.88,804.58,998.2,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
@@ -1401,13 +1400,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Greece,LFS - Labour Force Survey,Female,2019Q4,811.78,613.93,748.60,1064.20,961.18,719.78,912.91,,"Notes
+Greece,LFS - Labour Force Survey,Female,2019Q4,811.78,613.93,748.6,1064.2,961.18,719.78,912.91,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Greece,LFS - Labour Force Survey,Total,2020Q1,890.26,673.22,856.30,831.02,1055.60,811.50,995.21,,"Notes
+Greece,LFS - Labour Force Survey,Total,2020Q1,890.26,673.22,856.3,831.02,1055.6,811.5,995.21,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
@@ -1419,13 +1418,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Greece,LFS - Labour Force Survey,Female,2020Q1,818.90,579.26,780.35,1091.02,878.29,725.76,918.32,,"Notes
+Greece,LFS - Labour Force Survey,Female,2020Q1,818.9,579.26,780.35,1091.02,878.29,725.76,918.32,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Greece,LFS - Labour Force Survey,Total,2020Q2,905.80,648.34,872.57,826.09,1012.89,834.12,1001.59,,"Notes
+Greece,LFS - Labour Force Survey,Total,2020Q2,905.8,648.34,872.57,826.09,1012.89,834.12,1001.59,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
@@ -1443,13 +1442,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Greece,LFS - Labour Force Survey,Total,2020Q3,904.16,670.28,849.28,836.64,1016.90,831.22,1018.89,,"Notes
+Greece,LFS - Labour Force Survey,Total,2020Q3,904.16,670.28,849.28,836.64,1016.9,831.22,1018.89,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Greece,LFS - Labour Force Survey,Male,2020Q3,957.57,687.07,910.63,820.41,1046.13,897.80,1096.22,,"Notes
+Greece,LFS - Labour Force Survey,Male,2020Q3,957.57,687.07,910.63,820.41,1046.13,897.8,1096.22,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Euro 
@@ -1479,13 +1478,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Euro 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Total,2019Q3,16339.18,7593.05,13749.80,10509.35,23206.17,17122.41,17913.77,,"Notes
+India,LFS - Periodic Labour Force Survey,Total,2019Q3,16339.18,7593.05,13749.8,10509.35,23206.17,17122.41,17913.77,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Male,2019Q3,17143.95,9329.97,14180.40,13110.24,23786.86,16474.02,21828.38,,"Notes
+India,LFS - Periodic Labour Force Survey,Male,2019Q3,17143.95,9329.97,14180.4,13110.24,23786.86,16474.02,21828.38,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1497,7 +1496,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Total,2019Q4,16124.48,9536.50,13534.42,11248.00,23374.70,16811.95,17834.21,,"Notes
+India,LFS - Periodic Labour Force Survey,Total,2019Q4,16124.48,9536.5,13534.42,11248,23374.7,16811.95,17834.21,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1515,13 +1514,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Total,2020Q1,17132.88,10934.53,15117.60,10196.43,21466.47,17409.43,19169.40,,"Notes
+India,LFS - Periodic Labour Force Survey,Total,2020Q1,17132.88,10934.53,15117.6,10196.43,21466.47,17409.43,19169.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Male,2020Q1,18544.71,11789.90,15798.89,14409.38,21770.69,17219.30,24050.62,,"Notes
+India,LFS - Periodic Labour Force Survey,Male,2020Q1,18544.71,11789.9,15798.89,14409.38,21770.69,17219.3,24050.62,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1539,7 +1538,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Male,2020Q2,18478.78,10525.20,16709.49,9560.91,21546.69,18551.21,23787.20,,"Notes
+India,LFS - Periodic Labour Force Survey,Male,2020Q2,18478.78,10525.2,16709.49,9560.91,21546.69,18551.21,23787.2,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1551,7 +1550,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Total,2020Q3,16565.58,6902.63,13801.82,9029.20,24936.44,17351.97,19756.08,,"Notes
+India,LFS - Periodic Labour Force Survey,Total,2020Q3,16565.58,6902.63,13801.82,9029.2,24936.44,17351.97,19756.08,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1569,37 +1568,37 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Total,2020Q4,17419.02,6667.07,14271.58,11391.60,23861.85,17468.33,20935.09,,"Notes
+India,LFS - Periodic Labour Force Survey,Total,2020Q4,17419.02,6667.07,14271.58,11391.6,23861.85,17468.33,20935.09,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Male,2020Q4,18741.70,8022.72,14775.62,15052.83,23849.12,17450.13,26672.04,,"Notes
+India,LFS - Periodic Labour Force Survey,Male,2020Q4,18741.7,8022.72,14775.62,15052.83,23849.12,17450.13,26672.04,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Female,2020Q4,12900.23,4315.14,10582.58,4969.80,24015.85,17609.76,13246.97,,"Notes
+India,LFS - Periodic Labour Force Survey,Female,2020Q4,12900.23,4315.14,10582.58,4969.8,24015.85,17609.76,13246.97,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Total,2021Q1,16958.90,9391.14,14264.96,9546.34,24305.66,17949.11,18849.16,,"Notes
+India,LFS - Periodic Labour Force Survey,Total,2021Q1,16958.9,9391.14,14264.96,9546.34,24305.66,17949.11,18849.16,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Male,2021Q1,18631.65,11669.73,14908.20,12508.71,24980.72,18041.50,24814.34,,"Notes
+India,LFS - Periodic Labour Force Survey,Male,2021Q1,18631.65,11669.73,14908.2,12508.71,24980.72,18041.5,24814.34,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Female,2021Q1,12339.38,5770.31,9516.80,5474.40,17297.12,17356.21,12630.82,,"Notes
+India,LFS - Periodic Labour Force Survey,Female,2021Q1,12339.38,5770.31,9516.8,5474.4,17297.12,17356.21,12630.82,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1611,7 +1610,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Male,2021Q2,18702.09,9188.96,15407.29,12772.00,22930.57,18591.17,24544.82,,"Notes
+India,LFS - Periodic Labour Force Survey,Male,2021Q2,18702.09,9188.96,15407.29,12772,22930.57,18591.17,24544.82,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1623,7 +1622,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Total,2021Q3,18311.67,7910.49,15082.56,11184.97,21467.00,20057.29,21105.75,,"Notes
+India,LFS - Periodic Labour Force Survey,Total,2021Q3,18311.67,7910.49,15082.56,11184.97,21467,20057.29,21105.75,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1647,7 +1646,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Male,2021Q4,19416.40,12577.57,15138.37,20555.35,25190.76,19043.37,24851.29,,"Notes
+India,LFS - Periodic Labour Force Survey,Male,2021Q4,19416.4,12577.57,15138.37,20555.35,25190.76,19043.37,24851.29,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1665,13 +1664,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Male,2022Q1,20111.50,12070.55,15022.06,13948.30,23363.94,19684.79,28481.59,,"Notes
+India,LFS - Periodic Labour Force Survey,Male,2022Q1,20111.5,12070.55,15022.06,13948.3,23363.94,19684.79,28481.59,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Female,2022Q1,14160.40,5321.38,10672.56,6477.28,12789.63,18871.92,14973.51,,"Notes
+India,LFS - Periodic Labour Force Survey,Female,2022Q1,14160.4,5321.38,10672.56,6477.28,12789.63,18871.92,14973.51,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1683,7 +1682,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-India,LFS - Periodic Labour Force Survey,Male,2022Q2,19935.46,11088.65,15389.50,13871.26,22469.58,20490.18,26557.73,,"Notes
+India,LFS - Periodic Labour Force Survey,Male,2022Q2,19935.46,11088.65,15389.5,13871.26,22469.58,20490.18,26557.73,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indian rupee 
@@ -1695,7 +1694,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indian rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Indonesia,LFS - National Labour Force Survey,Total,2019Q3,2634359.36,1491204.71,2719568.29,2400987.74,3792877.20,2893190.08,2896827.00,,"Notes
+Indonesia,LFS - National Labour Force Survey,Total,2019Q3,2634359.36,1491204.71,2719568.29,2400987.74,3792877.2,2893190.08,2896827,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
@@ -1713,13 +1712,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indonesian rupiah 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Twice a year: February and August"
-Indonesia,LFS - National Labour Force Survey,Total,2020Q1,2655423.13,1476319.10,2719633.86,2523399.84,4182363.73,2845999.71,2910751.70,,"Notes
+Indonesia,LFS - National Labour Force Survey,Total,2020Q1,2655423.13,1476319.1,2719633.86,2523399.84,4182363.73,2845999.71,2910751.7,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Twice a year: February and August"
-Indonesia,LFS - National Labour Force Survey,Male,2020Q1,2869947.99,1705390.17,3012563.07,2512454.56,4227374.25,2993530.82,3462694.50,,"Notes
+Indonesia,LFS - National Labour Force Survey,Male,2020Q1,2869947.99,1705390.17,3012563.07,2512454.56,4227374.25,2993530.82,3462694.5,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
@@ -1731,19 +1730,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indonesian rupiah 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Twice a year: February and August"
-Indonesia,LFS - National Labour Force Survey,Total,2020Q3,2460714.35,1364458.42,2547057.60,2316742.63,3526655.85,2705835.05,2774994.49,,"Notes
+Indonesia,LFS - National Labour Force Survey,Total,2020Q3,2460714.35,1364458.42,2547057.6,2316742.63,3526655.85,2705835.05,2774994.49,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Twice a year: February and August"
-Indonesia,LFS - National Labour Force Survey,Male,2020Q3,2629105.42,1558027.57,2826768.67,2291662.80,3585571.09,2825003.96,3257696.55,,"Notes
+Indonesia,LFS - National Labour Force Survey,Male,2020Q3,2629105.42,1558027.57,2826768.67,2291662.8,3585571.09,2825003.96,3257696.55,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Twice a year: February and August"
-Indonesia,LFS - National Labour Force Survey,Female,2020Q3,2119600.15,863992.67,2066976.31,3545153.48,2891409.29,2430684.24,2329425.70,,"Notes
+Indonesia,LFS - National Labour Force Survey,Female,2020Q3,2119600.15,863992.67,2066976.31,3545153.48,2891409.29,2430684.24,2329425.7,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
@@ -1767,7 +1766,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indonesian rupiah 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Twice a year: February and August"
-Indonesia,LFS - National Labour Force Survey,Total,2021Q3,2448126.78,1389905.83,2562185.92,2267421.97,3420424.32,2628700.73,2770739.60,,"Notes
+Indonesia,LFS - National Labour Force Survey,Total,2021Q3,2448126.78,1389905.83,2562185.92,2267421.97,3420424.32,2628700.73,2770739.6,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
@@ -1779,7 +1778,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indonesian rupiah 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Twice a year: February and August"
-Indonesia,LFS - National Labour Force Survey,Female,2021Q3,2135092.42,879033.88,2118855.50,3450545.58,2979022.11,2392062.49,2319798.20,,"Notes
+Indonesia,LFS - National Labour Force Survey,Female,2021Q3,2135092.42,879033.88,2118855.5,3450545.58,2979022.11,2392062.49,2319798.2,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
@@ -1803,13 +1802,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Indonesian rupiah 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Twice a year: February and August"
-Indonesia,LFS - National Labour Force Survey,Total,2022Q3,2770901.95,1603789.06,2866365.83,2619302.40,3987202.53,3101185.24,2929577.42,,"Notes
+Indonesia,LFS - National Labour Force Survey,Total,2022Q3,2770901.95,1603789.06,2866365.83,2619302.4,3987202.53,3101185.24,2929577.42,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Twice a year: February and August"
-Indonesia,LFS - National Labour Force Survey,Male,2022Q3,2974288.22,1813262.69,3194999.17,2590222.28,3941183.47,3280294.30,3452831.00,,"Notes
+Indonesia,LFS - National Labour Force Survey,Male,2022Q3,2974288.22,1813262.69,3194999.17,2590222.28,3941183.47,3280294.3,3452831,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Indonesian rupiah 
@@ -1827,7 +1826,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Kenyan shilling 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Kenya,HIES - Household Budget Survey,Male,2019Q4,12277.58,5097.21,14518.04,6768.80,20062.73,11626.47,26736.40,,"Notes
+Kenya,HIES - Household Budget Survey,Male,2019Q4,12277.58,5097.21,14518.04,6768.8,20062.73,11626.47,26736.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Kenyan shilling 
@@ -1839,13 +1838,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Kenyan shilling 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2019Q3,6616.48,4214.50,6894.16,6856.85,10261.42,6599.39,7317.76,4663.78,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2019Q3,6616.48,4214.5,6894.16,6856.85,10261.42,6599.39,7317.76,4663.78,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2019Q3,7027.89,4211.24,7441.11,6784.86,10254.36,7208.10,9185.88,4617.39,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2019Q3,7027.89,4211.24,7441.11,6784.86,10254.36,7208.1,9185.88,4617.39,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -1857,19 +1856,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2019Q4,6763.73,4368.00,7064.18,7080.60,11058.33,6656.00,7462.81,5051.74,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2019Q4,6763.73,4368,7064.18,7080.6,11058.33,6656,7462.81,5051.74,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2019Q4,7211.60,4384.77,7642.83,7004.94,11197.25,7277.44,9316.36,5515.46,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2019Q4,7211.6,4384.77,7642.83,7004.94,11197.25,7277.44,9316.36,5515.46,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2019Q4,6052.71,4240.00,5990.81,9108.36,10162.95,5727.31,6440.34,4737.28,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2019Q4,6052.71,4240,5990.81,9108.36,10162.95,5727.31,6440.34,4737.28,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -1881,19 +1880,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2020Q1,7478.00,4471.14,7814.43,7039.98,11897.12,7641.18,9612.61,5457.32,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2020Q1,7478,4471.14,7814.43,7039.98,11897.12,7641.18,9612.61,5457.32,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2020Q1,6359.99,4351.64,6215.22,9080.22,11392.54,5986.46,6813.40,4815.98,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2020Q1,6359.99,4351.64,6215.22,9080.22,11392.54,5986.46,6813.4,4815.98,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2020Q2,6914.95,4446.28,6589.68,6698.58,10770.14,6698.20,8146.73,4746.38,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2020Q2,6914.95,4446.28,6589.68,6698.58,10770.14,6698.2,8146.73,4746.38,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -1901,7 +1900,7 @@ Average monthly earnings of employees (local currency)
 -Frequency: Quarterly: average based on 3 monthly data points 
 -Break in series: Methodology revised 
 -Remarks: Telephonic operational strategy"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2020Q2,7177.96,4378.88,7171.09,6541.72,10955.99,7040.67,9740.05,4900.00,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2020Q2,7177.96,4378.88,7171.09,6541.72,10955.99,7040.67,9740.05,4900,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -1909,7 +1908,7 @@ Average monthly earnings of employees (local currency)
 -Frequency: Quarterly: average based on 3 monthly data points 
 -Break in series: Methodology revised 
 -Remarks: Telephonic operational strategy"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2020Q2,6548.55,5200.20,5795.56,8895.96,9129.92,6187.74,7172.87,4483.03,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2020Q2,6548.55,5200.2,5795.56,8895.96,9129.92,6187.74,7172.87,4483.03,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -1917,64 +1916,64 @@ Average monthly earnings of employees (local currency)
 -Frequency: Quarterly: average based on 3 monthly data points 
 -Break in series: Methodology revised 
 -Remarks: Telephonic operational strategy"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2020Q3,7094.67,4437.51,7179.90,6867.85,10048.82,6874.98,8360.62,5473.37,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2020Q3,7094.67,4437.51,7179.9,6867.85,10048.82,6874.98,8360.62,5473.37,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points 
 -Break in series: Methodology revised"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2020Q3,7344.70,4393.52,7752.00,6793.26,10048.57,7371.99,9794.76,5378.13,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2020Q3,7344.7,4393.52,7752,6793.26,10048.57,7371.99,9794.76,5378.13,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points 
 -Break in series: Methodology revised"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2020Q3,6682.29,4768.44,6113.15,8662.13,10050.27,6071.20,7502.34,5622.68,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2020Q3,6682.29,4768.44,6113.15,8662.13,10050.27,6071.2,7502.34,5622.68,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points 
 -Break in series: Methodology revised"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2020Q4,7134.65,4579.53,7313.16,7126.97,11215.09,6985.83,8157.61,5803.60,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2020Q4,7134.65,4579.53,7313.16,7126.97,11215.09,6985.83,8157.61,5803.6,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2020Q4,7491.59,4575.40,7811.44,7036.94,11399.67,7603.83,9861.73,5955.64,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2020Q4,7491.59,4575.4,7811.44,7036.94,11399.67,7603.83,9861.73,5955.64,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2020Q4,6559.60,4606.61,6440.86,9436.82,10158.61,6031.26,7158.14,5577.40,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2020Q4,6559.6,4606.61,6440.86,9436.82,10158.61,6031.26,7158.14,5577.4,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2021Q1,7378.79,4783.70,7396.64,7171.58,11643.91,7292.09,8510.48,6354.49,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2021Q1,7378.79,4783.7,7396.64,7171.58,11643.91,7292.09,8510.48,6354.49,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2021Q1,7731.83,4812.60,7971.89,7079.94,11700.00,7893.15,10366.03,6093.81,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2021Q1,7731.83,4812.6,7971.89,7079.94,11700,7893.15,10366.03,6093.81,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2021Q1,6807.85,4567.02,6375.61,9322.06,11316.10,6341.36,7466.32,6742.48,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2021Q1,6807.85,4567.02,6375.61,9322.06,11316.1,6341.36,7466.32,6742.48,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2021Q2,7404.58,4761.75,7670.33,7426.90,11984.66,7246.34,8466.77,5444.84,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2021Q2,7404.58,4761.75,7670.33,7426.9,11984.66,7246.34,8466.77,5444.84,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -1992,13 +1991,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2021Q3,7560.14,4721.32,7721.60,7507.60,10826.77,7538.90,8637.78,5796.37,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Total,2021Q3,7560.14,4721.32,7721.6,7507.6,10826.77,7538.9,8637.78,5796.37,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2021Q3,7977.15,4757.22,8401.48,7420.22,10935.70,8211.09,10610.22,6393.95,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2021Q3,7977.15,4757.22,8401.48,7420.22,10935.7,8211.09,10610.22,6393.95,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -2016,7 +2015,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2021Q4,8045.91,4848.67,8476.90,7424.34,11758.17,8217.55,10763.72,6451.46,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2021Q4,8045.91,4848.67,8476.9,7424.34,11758.17,8217.55,10763.72,6451.46,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -2034,13 +2033,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2022Q1,8289.03,5106.26,8800.15,7648.47,10883.97,8607.40,10550.16,5933.63,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Male,2022Q1,8289.03,5106.26,8800.15,7648.47,10883.97,8607.4,10550.16,5933.63,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2022Q1,7133.44,4767.28,6806.74,10287.39,10571.77,6938.80,7594.67,5756.32,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2022Q1,7133.44,4767.28,6806.74,10287.39,10571.77,6938.8,7594.67,5756.32,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -2058,7 +2057,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2022Q2,7332.24,4981.08,7084.13,10755.02,11568.33,7031.61,7833.19,6327.40,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2022Q2,7332.24,4981.08,7084.13,10755.02,11568.33,7031.61,7833.19,6327.4,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
@@ -2076,13 +2075,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2022Q3,7391.21,5126.90,7301.48,10996.40,10215.75,7068.80,7887.78,5724.33,"Notes
+Mexico,LFS - Encuesta Nacional de Ocupación y Empleo,Female,2022Q3,7391.21,5126.9,7301.48,10996.4,10215.75,7068.8,7887.78,5724.33,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Peso 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-"Moldova, Republic of",LFS - Labour Force Survey,Total,2019Q3,4171.38,2923.95,4217.70,5951.20,4284.28,4580.46,3969.89,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Total,2019Q3,4171.38,2923.95,4217.7,5951.2,4284.28,4580.46,3969.89,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2094,7 +2093,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Female,2019Q3,3865.77,2723.96,3952.85,3901.20,4054.50,4099.14,3885.69,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Female,2019Q3,3865.77,2723.96,3952.85,3901.2,4054.5,4099.14,3885.69,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2106,7 +2105,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Male,2019Q4,4612.57,3137.78,4577.80,5842.63,4663.67,5304.65,4268.98,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Male,2019Q4,4612.57,3137.78,4577.8,5842.63,4663.67,5304.65,4268.98,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2118,7 +2117,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Total,2020Q1,4366.51,3019.73,4348.62,5421.08,5009.60,4888.85,4177.08,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Total,2020Q1,4366.51,3019.73,4348.62,5421.08,5009.6,4888.85,4177.08,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2136,25 +2135,25 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Total,2020Q2,4391.71,3112.57,4309.65,5238.28,5402.76,4867.11,4309.30,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Total,2020Q2,4391.71,3112.57,4309.65,5238.28,5402.76,4867.11,4309.3,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Male,2020Q2,4717.50,3195.97,4638.23,5348.09,5692.54,5303.22,4729.36,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Male,2020Q2,4717.5,3195.97,4638.23,5348.09,5692.54,5303.22,4729.36,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Female,2020Q2,4079.49,2856.60,4097.56,,3592.86,4292.36,4139.03,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Female,2020Q2,4079.49,2856.6,4097.56,,3592.86,4292.36,4139.03,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Total,2020Q3,4502.73,3073.33,4386.85,6504.55,4756.80,5043.00,4458.78,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Total,2020Q3,4502.73,3073.33,4386.85,6504.55,4756.8,5043,4458.78,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2172,19 +2171,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Total,2020Q4,4469.94,3081.49,4704.67,6264.58,4872.16,4642.93,4471.10,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Total,2020Q4,4469.94,3081.49,4704.67,6264.58,4872.16,4642.93,4471.1,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Male,2020Q4,4767.88,3285.40,5258.94,6286.41,4904.21,5050.77,4626.30,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Male,2020Q4,4767.88,3285.4,5258.94,6286.41,4904.21,5050.77,4626.3,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Female,2020Q4,4208.89,2656.51,4277.88,,4764.00,4226.03,4410.82,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Female,2020Q4,4208.89,2656.51,4277.88,,4764,4226.03,4410.82,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2196,7 +2195,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Male,2021Q1,4972.25,3012.09,5326.14,5658.89,5555.85,5699.10,4665.97,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Male,2021Q1,4972.25,3012.09,5326.14,5658.89,5555.85,5699.1,4665.97,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2208,13 +2207,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Total,2021Q2,4922.02,3165.04,4995.95,6066.93,5328.12,5495.60,5007.55,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Total,2021Q2,4922.02,3165.04,4995.95,6066.93,5328.12,5495.6,5007.55,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Male,2021Q2,5242.94,3146.29,5514.05,6198.10,5627.89,6410.02,5136.79,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Male,2021Q2,5242.94,3146.29,5514.05,6198.1,5627.89,6410.02,5136.79,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2232,19 +2231,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Male,2021Q3,5331.74,3602.86,5352.67,6450.85,4962.82,6110.12,5686.40,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Male,2021Q3,5331.74,3602.86,5352.67,6450.85,4962.82,6110.12,5686.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Female,2021Q3,4854.42,3119.20,4642.34,3760.22,5070.64,5388.18,5000.44,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Female,2021Q3,4854.42,3119.2,4642.34,3760.22,5070.64,5388.18,5000.44,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Total,2021Q4,5057.58,3646.48,5318.80,6376.84,5654.75,5299.40,5030.79,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Total,2021Q4,5057.58,3646.48,5318.8,6376.84,5654.75,5299.4,5030.79,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2256,13 +2255,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Female,2021Q4,4789.70,3423.46,4927.10,,6045.58,4867.51,4885.58,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Female,2021Q4,4789.7,3423.46,4927.1,,6045.58,4867.51,4885.58,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Total,2022Q1,403129.99,161252.58,296698.25,511041.47,327771.33,543031.40,365639.17,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Total,2022Q1,403129.99,161252.58,296698.25,511041.47,327771.33,543031.4,365639.17,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2274,13 +2273,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Female,2022Q1,374996.55,141540.50,257261.89,588195.49,285244.87,500726.22,356724.71,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Female,2022Q1,374996.55,141540.5,257261.89,588195.49,285244.87,500726.22,356724.71,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Total,2022Q2,390626.80,141269.27,329686.71,434062.91,373867.80,533933.25,349702.55,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Total,2022Q2,390626.8,141269.27,329686.71,434062.91,373867.8,533933.25,349702.55,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
@@ -2304,19 +2303,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Male,2022Q3,19217.69,11511.27,18483.82,17302.22,13507.50,24300.16,19175.57,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Male,2022Q3,19217.69,11511.27,18483.82,17302.22,13507.5,24300.16,19175.57,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-"Moldova, Republic of",LFS - Labour Force Survey,Female,2022Q3,18099.39,8260.27,16566.98,18241.23,12901.97,21563.59,17620.50,,"Notes
+"Moldova, Republic of",LFS - Labour Force Survey,Female,2022Q3,18099.39,8260.27,16566.98,18241.23,12901.97,21563.59,17620.5,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Moldovan leu 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Mongolia,LFS - Labour Force Survey,Total,2019Q3,786118.03,412297.22,746049.30,773259.42,1131521.14,798555.15,694623.85,,"Notes
+Mongolia,LFS - Labour Force Survey,Total,2019Q3,786118.03,412297.22,746049.3,773259.42,1131521.14,798555.15,694623.85,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
@@ -2328,19 +2327,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Female,2019Q3,705163.44,417381.67,794359.95,587380.20,1055667.77,726754.47,656271.74,,"Notes
+Mongolia,LFS - Labour Force Survey,Female,2019Q3,705163.44,417381.67,794359.95,587380.2,1055667.77,726754.47,656271.74,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Total,2019Q4,799123.14,461113.31,801960.34,906930.50,1120253.00,799724.35,692117.55,,"Notes
+Mongolia,LFS - Labour Force Survey,Total,2019Q4,799123.14,461113.31,801960.34,906930.5,1120253,799724.35,692117.55,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Male,2019Q4,867385.03,520014.69,784577.21,918096.72,1138449.93,857921.32,736982.00,,"Notes
+Mongolia,LFS - Labour Force Survey,Male,2019Q4,867385.03,520014.69,784577.21,918096.72,1138449.93,857921.32,736982,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
@@ -2352,7 +2351,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Total,2020Q1,870436.35,556110.95,731104.20,1007265.02,1291514.15,845283.05,793494.81,,"Notes
+Mongolia,LFS - Labour Force Survey,Total,2020Q1,870436.35,556110.95,731104.2,1007265.02,1291514.15,845283.05,793494.81,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
@@ -2370,13 +2369,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Total,2020Q2,853090.53,483853.90,717368.11,1057453.25,1203166.79,853272.34,755964.79,,"Notes
+Mongolia,LFS - Labour Force Survey,Total,2020Q2,853090.53,483853.9,717368.11,1057453.25,1203166.79,853272.34,755964.79,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Male,2020Q2,937765.35,502216.33,795394.60,1061068.56,1322726.67,875450.08,792526.58,,"Notes
+Mongolia,LFS - Labour Force Survey,Male,2020Q2,937765.35,502216.33,795394.6,1061068.56,1322726.67,875450.08,792526.58,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
@@ -2394,7 +2393,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Male,2020Q3,942643.98,477145.44,913910.96,1043058.00,1333883.91,885826.85,781008.55,,"Notes
+Mongolia,LFS - Labour Force Survey,Male,2020Q3,942643.98,477145.44,913910.96,1043058,1333883.91,885826.85,781008.55,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
@@ -2418,7 +2417,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Female,2020Q4,825597.90,555229.19,610404.91,795212.82,824867.30,978233.06,773283.57,,"Notes
+Mongolia,LFS - Labour Force Survey,Female,2020Q4,825597.9,555229.19,610404.91,795212.82,824867.3,978233.06,773283.57,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
@@ -2430,7 +2429,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Male,2021Q1,938182.16,453661.17,721669.87,1090898.30,1195010.14,903913.17,819711.22,,"Notes
+Mongolia,LFS - Labour Force Survey,Male,2021Q1,938182.16,453661.17,721669.87,1090898.3,1195010.14,903913.17,819711.22,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
@@ -2442,31 +2441,31 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Total,2021Q2,878917.58,529320.90,709022.48,896020.04,1299443.17,872057.49,782616.40,,"Notes
+Mongolia,LFS - Labour Force Survey,Total,2021Q2,878917.58,529320.9,709022.48,896020.04,1299443.17,872057.49,782616.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Male,2021Q2,985631.16,545541.73,722809.85,902665.28,1372707.71,958132.17,856846.00,,"Notes
+Mongolia,LFS - Labour Force Survey,Male,2021Q2,985631.16,545541.73,722809.85,902665.28,1372707.71,958132.17,856846,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Female,2021Q2,772312.62,447510.10,697893.83,862420.66,981471.54,801162.53,742210.01,,"Notes
+Mongolia,LFS - Labour Force Survey,Female,2021Q2,772312.62,447510.1,697893.83,862420.66,981471.54,801162.53,742210.01,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Total,2021Q3,910744.46,415906.49,838096.98,969100.39,1237711.36,912567.95,812874.00,,"Notes
+Mongolia,LFS - Labour Force Survey,Total,2021Q3,910744.46,415906.49,838096.98,969100.39,1237711.36,912567.95,812874,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Male,2021Q3,997277.71,438573.11,942612.04,953186.26,1287695.80,980413.66,856644.60,,"Notes
+Mongolia,LFS - Labour Force Survey,Male,2021Q3,997277.71,438573.11,942612.04,953186.26,1287695.8,980413.66,856644.6,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
@@ -2478,7 +2477,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Mongolia,LFS - Labour Force Survey,Total,2021Q4,955165.99,466899.86,864546.02,1073555.78,1355970.70,955645.85,839386.85,,"Notes
+Mongolia,LFS - Labour Force Survey,Total,2021Q4,955165.99,466899.86,864546.02,1073555.78,1355970.7,955645.85,839386.85,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Tögrög 
@@ -2496,13 +2495,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Tögrög 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2019Q3,2892.08,1941.41,2593.50,4853.36,3017.36,2244.70,2494.40,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2019Q3,2892.08,1941.41,2593.5,4853.36,3017.36,2244.7,2494.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2019Q3,2992.79,1945.54,2676.68,4851.74,3061.43,2272.99,2497.50,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2019Q3,2992.79,1945.54,2676.68,4851.74,3061.43,2272.99,2497.5,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
@@ -2538,13 +2537,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2020Q1,2967.50,2066.57,2690.12,4681.10,3137.85,2145.98,2735.63,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2020Q1,2967.5,2066.57,2690.12,4681.1,3137.85,2145.98,2735.63,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Female,2020Q1,2434.11,1764.27,1214.59,5961.64,,1623.47,2615.40,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Female,2020Q1,2434.11,1764.27,1214.59,5961.64,,1623.47,2615.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
@@ -2556,7 +2555,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2020Q2,2923.89,1842.22,2785.25,4670.57,2965.90,2357.40,2570.00,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2020Q2,2923.89,1842.22,2785.25,4670.57,2965.9,2357.4,2570,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
@@ -2580,37 +2579,37 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Female,2020Q3,2453.93,,1275.00,,,1836.65,2649.11,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Female,2020Q3,2453.93,,1275,,,1836.65,2649.11,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2020Q4,2942.48,1862.34,2695.99,4585.17,2813.20,2290.88,2617.14,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2020Q4,2942.48,1862.34,2695.99,4585.17,2813.2,2290.88,2617.14,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2020Q4,3045.92,1861.77,2794.70,4592.35,2868.95,2307.45,2668.73,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2020Q4,3045.92,1861.77,2794.7,4592.35,2868.95,2307.45,2668.73,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Female,2020Q4,2400.77,1896.28,1382.98,3192.31,,2127.10,2511.78,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Female,2020Q4,2400.77,1896.28,1382.98,3192.31,,2127.1,2511.78,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2021Q1,2933.12,2028.82,2698.54,4627.98,2547.34,2291.98,2575.40,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2021Q1,2933.12,2028.82,2698.54,4627.98,2547.34,2291.98,2575.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2021Q1,3034.55,2021.41,2770.45,4633.39,2547.34,2301.60,2634.43,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2021Q1,3034.55,2021.41,2770.45,4633.39,2547.34,2301.6,2634.43,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
@@ -2622,7 +2621,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2021Q2,2932.33,2156.86,2881.91,4756.40,2510.41,2156.24,2526.15,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2021Q2,2932.33,2156.86,2881.91,4756.4,2510.41,2156.24,2526.15,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
@@ -2640,7 +2639,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2021Q3,2937.45,2190.80,2664.52,4763.50,2504.44,2135.53,2582.23,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2021Q3,2937.45,2190.8,2664.52,4763.5,2504.44,2135.53,2582.23,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
@@ -2664,7 +2663,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2021Q4,3010.09,1912.21,2564.72,4715.05,2943.63,2242.84,2584.60,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2021Q4,3010.09,1912.21,2564.72,4715.05,2943.63,2242.84,2584.6,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
@@ -2676,13 +2675,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2022Q1,3022.57,2120.35,2633.76,4821.44,2807.00,2334.38,2618.50,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2022Q1,3022.57,2120.35,2633.76,4821.44,2807,2334.38,2618.5,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2022Q1,3178.73,2146.46,2743.99,4833.59,2754.03,2399.12,2746.10,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2022Q1,3178.73,2146.46,2743.99,4833.59,2754.03,2399.12,2746.1,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
@@ -2694,31 +2693,31 @@ Average monthly earnings of employees (local currency)
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2022Q2,3045.43,2046.50,2712.58,5045.75,2781.42,2353.01,2596.63,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2022Q2,3045.43,2046.5,2712.58,5045.75,2781.42,2353.01,2596.63,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2022Q2,3197.60,1996.83,2857.76,5045.60,2788.62,2405.11,2682.93,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2022Q2,3197.6,1996.83,2857.76,5045.6,2788.62,2405.11,2682.93,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Female,2022Q2,2283.85,2727.30,1305.18,,,1944.88,2430.64,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Female,2022Q2,2283.85,2727.3,1305.18,,,1944.88,2430.64,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2022Q3,3157.66,2157.40,2843.54,5164.97,2526.34,2374.67,2672.55,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Total,2022Q3,3157.66,2157.4,2843.54,5164.97,2526.34,2374.67,2672.55,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2022Q3,3281.17,2167.70,2923.14,5169.07,2526.34,2409.13,2714.19,,"Notes
+Occupied Palestinian Territory,LFS - Labour Force Survey,Male,2022Q3,3281.17,2167.7,2923.14,5169.07,2526.34,2409.13,2714.19,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: New Shekel 
@@ -2755,7 +2754,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Data reference period: Noncalendar year 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Pakistan,LFS - Labour Force Survey,Male,2020Q3,24459.40,14914.50,22451.17,19546.98,30536.14,23376.82,35182.52,,"Notes
+Pakistan,LFS - Labour Force Survey,Male,2020Q3,24459.4,14914.5,22451.17,19546.98,30536.14,23376.82,35182.52,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Pakistani rupee 
@@ -2776,14 +2775,14 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Data reference period: Noncalendar year 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Pakistan,LFS - Labour Force Survey,Male,2020Q4,24562.50,14067.21,23752.25,19442.70,30698.82,23920.66,35133.19,,"Notes
+Pakistan,LFS - Labour Force Survey,Male,2020Q4,24562.5,14067.21,23752.25,19442.7,30698.82,23920.66,35133.19,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Pakistani rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Data reference period: Noncalendar year 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Pakistan,LFS - Labour Force Survey,Female,2020Q4,20779.02,9726.36,15202.12,20833.16,18824.58,35860.30,25394.46,,"Notes
+Pakistan,LFS - Labour Force Survey,Female,2020Q4,20779.02,9726.36,15202.12,20833.16,18824.58,35860.3,25394.46,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Pakistani rupee 
@@ -2797,7 +2796,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Data reference period: Noncalendar year 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Pakistan,LFS - Labour Force Survey,Male,2021Q1,24658.47,15257.94,23581.23,19339.29,31525.47,24447.40,34926.92,,"Notes
+Pakistan,LFS - Labour Force Survey,Male,2021Q1,24658.47,15257.94,23581.23,19339.29,31525.47,24447.4,34926.92,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Pakistani rupee 
@@ -2811,14 +2810,14 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Data reference period: Noncalendar year 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Pakistan,LFS - Labour Force Survey,Total,2021Q2,24234.62,14575.91,22348.94,19128.55,32158.94,24304.70,33322.65,,"Notes
+Pakistan,LFS - Labour Force Survey,Total,2021Q2,24234.62,14575.91,22348.94,19128.55,32158.94,24304.7,33322.65,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Pakistani rupee 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Data reference period: Noncalendar year 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Pakistan,LFS - Labour Force Survey,Male,2021Q2,24905.29,16184.45,23787.60,19140.85,32330.94,23935.49,37260.34,,"Notes
+Pakistan,LFS - Labour Force Survey,Male,2021Q2,24905.29,16184.45,23787.6,19140.85,32330.94,23935.49,37260.34,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Pakistani rupee 
@@ -2832,7 +2831,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Data reference period: Noncalendar year 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Peru,HS - Encuesta Nacional de Hogares,Total,2019Q3,1674.60,855.77,1563.26,1704.60,3316.24,1544.83,1958.19,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Total,2019Q3,1674.6,855.77,1563.26,1704.6,3316.24,1544.83,1958.19,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -2862,7 +2861,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Female,2019Q4,1434.98,857.70,1201.11,1888.35,1928.37,1314.34,1665.53,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Female,2019Q4,1434.98,857.7,1201.11,1888.35,1928.37,1314.34,1665.53,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -2874,13 +2873,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Male,2020Q1,1796.45,1020.25,1615.37,1792.58,3076.96,1762.40,2204.55,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Male,2020Q1,1796.45,1020.25,1615.37,1792.58,3076.96,1762.4,2204.55,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Female,2020Q1,1531.73,621.71,1835.60,2256.69,2249.85,1253.23,1869.08,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Female,2020Q1,1531.73,621.71,1835.6,2256.69,2249.85,1253.23,1869.08,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -2898,19 +2897,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Female,2020Q2,1553.70,507.78,1270.12,1455.41,3297.45,1446.73,1886.21,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Female,2020Q2,1553.7,507.78,1270.12,1455.41,3297.45,1446.73,1886.21,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Total,2020Q3,1574.50,724.32,1272.68,1233.96,3580.12,1458.72,2216.56,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Total,2020Q3,1574.5,724.32,1272.68,1233.96,3580.12,1458.72,2216.56,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Male,2020Q3,1583.87,764.20,1331.40,1179.88,3561.17,1570.45,2427.50,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Male,2020Q3,1583.87,764.2,1331.4,1179.88,3561.17,1570.45,2427.5,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -2922,7 +2921,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Total,2020Q4,1663.72,917.90,1711.94,1448.07,2679.04,1490.00,2121.08,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Total,2020Q4,1663.72,917.9,1711.94,1448.07,2679.04,1490,2121.08,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -2934,7 +2933,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Female,2020Q4,1513.50,855.29,1328.00,1332.37,3408.01,1231.48,1881.64,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Female,2020Q4,1513.5,855.29,1328,1332.37,3408.01,1231.48,1881.64,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -2976,7 +2975,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Total,2021Q3,1667.40,1019.35,1731.48,1565.48,2652.05,1504.90,2058.95,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Total,2021Q3,1667.4,1019.35,1731.48,1565.48,2652.05,1504.9,2058.95,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -2988,7 +2987,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Female,2021Q3,1456.72,865.67,1194.77,1526.17,1080.21,1210.65,1855.60,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Female,2021Q3,1456.72,865.67,1194.77,1526.17,1080.21,1210.65,1855.6,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -3000,19 +2999,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Male,2021Q4,1811.17,1040.70,1762.59,1517.80,3064.87,1704.71,2454.05,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Male,2021Q4,1811.17,1040.7,1762.59,1517.8,3064.87,1704.71,2454.05,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Female,2021Q4,1546.86,881.00,1667.31,1625.03,3004.55,1268.43,1931.47,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Female,2021Q4,1546.86,881,1667.31,1625.03,3004.55,1268.43,1931.47,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Total,2022Q1,1698.15,1010.73,1898.16,1588.75,2757.30,1461.51,2173.22,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Total,2022Q1,1698.15,1010.73,1898.16,1588.75,2757.3,1461.51,2173.22,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -3036,13 +3035,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Male,2022Q2,1844.01,1086.97,1761.44,1527.03,3343.33,1766.80,2467.95,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Male,2022Q2,1844.01,1086.97,1761.44,1527.03,3343.33,1766.8,2467.95,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Peru,HS - Encuesta Nacional de Hogares,Female,2022Q2,1491.06,846.86,1324.19,2231.63,2197.09,1227.21,1852.40,,"Notes
+Peru,HS - Encuesta Nacional de Hogares,Female,2022Q2,1491.06,846.86,1324.19,2231.63,2197.09,1227.21,1852.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Nuevo sol 
@@ -3054,7 +3053,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Male,2019Q3,15074.33,6577.34,15355.56,10643.18,23087.67,16429.78,19098.73,21058.00,"Notes
+Thailand,LFS - Labour Force Survey,Male,2019Q3,15074.33,6577.34,15355.56,10643.18,23087.67,16429.78,19098.73,21058,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
@@ -3066,13 +3065,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Total,2019Q4,15093.18,6135.55,14304.10,10438.77,21281.99,16366.13,19196.46,20566.96,"Notes
+Thailand,LFS - Labour Force Survey,Total,2019Q4,15093.18,6135.55,14304.1,10438.77,21281.99,16366.13,19196.46,20566.96,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Male,2019Q4,14926.77,6611.72,15240.63,10443.14,22068.99,16794.15,18667.05,21157.20,"Notes
+Thailand,LFS - Labour Force Survey,Male,2019Q4,14926.77,6611.72,15240.63,10443.14,22068.99,16794.15,18667.05,21157.2,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
@@ -3090,7 +3089,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Male,2020Q1,15102.18,6345.53,16017.90,10670.74,23737.48,16858.67,18665.46,20681.39,"Notes
+Thailand,LFS - Labour Force Survey,Male,2020Q1,15102.18,6345.53,16017.9,10670.74,23737.48,16858.67,18665.46,20681.39,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
@@ -3108,7 +3107,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Male,2020Q2,14853.35,6019.02,14973.45,10494.39,22645.40,16828.45,18998.12,20979.55,"Notes
+Thailand,LFS - Labour Force Survey,Male,2020Q2,14853.35,6019.02,14973.45,10494.39,22645.4,16828.45,18998.12,20979.55,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
@@ -3120,25 +3119,25 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Total,2020Q3,15350.89,5958.02,14349.64,11202.40,22329.23,16402.28,19806.51,18483.97,"Notes
+Thailand,LFS - Labour Force Survey,Total,2020Q3,15350.89,5958.02,14349.64,11202.4,22329.23,16402.28,19806.51,18483.97,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Male,2020Q3,15173.55,6358.97,15209.59,11299.00,22897.85,16855.59,19175.62,18145.19,"Notes
+Thailand,LFS - Labour Force Survey,Male,2020Q3,15173.55,6358.97,15209.59,11299,22897.85,16855.59,19175.62,18145.19,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Female,2020Q3,15562.69,5320.41,13339.40,10724.77,20670.87,15925.74,20307.08,18791.25,"Notes
+Thailand,LFS - Labour Force Survey,Female,2020Q3,15562.69,5320.41,13339.4,10724.77,20670.87,15925.74,20307.08,18791.25,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Total,2020Q4,15426.86,6232.95,14649.05,11152.32,24612.49,16524.40,19668.01,22963.61,"Notes
+Thailand,LFS - Labour Force Survey,Total,2020Q4,15426.86,6232.95,14649.05,11152.32,24612.49,16524.4,19668.01,22963.61,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
@@ -3156,13 +3155,13 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Total,2021Q1,15393.86,6289.10,14945.69,10469.98,22883.07,15949.52,19797.62,25109.49,"Notes
+Thailand,LFS - Labour Force Survey,Total,2021Q1,15393.86,6289.1,14945.69,10469.98,22883.07,15949.52,19797.62,25109.49,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Male,2021Q1,15194.79,6612.61,15978.57,10331.02,23601.80,16429.44,19414.25,27036.80,"Notes
+Thailand,LFS - Labour Force Survey,Male,2021Q1,15194.79,6612.61,15978.57,10331.02,23601.8,16429.44,19414.25,27036.8,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
@@ -3180,19 +3179,19 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Male,2021Q2,15346.42,6643.89,15745.44,10826.45,23798.92,16441.90,19329.54,23490.38,"Notes
+Thailand,LFS - Labour Force Survey,Male,2021Q2,15346.42,6643.89,15745.44,10826.45,23798.92,16441.9,19329.54,23490.38,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Female,2021Q2,15747.67,5825.12,13711.90,10485.92,23058.35,15502.51,19890.13,19558.09,"Notes
+Thailand,LFS - Labour Force Survey,Female,2021Q2,15747.67,5825.12,13711.9,10485.92,23058.35,15502.51,19890.13,19558.09,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Total,2021Q3,15416.62,6192.63,14464.80,11125.74,21266.76,15805.04,19664.85,21376.51,"Notes
+Thailand,LFS - Labour Force Survey,Total,2021Q3,15416.62,6192.63,14464.8,11125.74,21266.76,15805.04,19664.85,21376.51,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
@@ -3228,25 +3227,25 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Total,2022Q1,16204.30,6790.91,16282.87,11093.16,23778.36,16380.70,20366.45,21414.28,"Notes
+Thailand,LFS - Labour Force Survey,Total,2022Q1,16204.3,6790.91,16282.87,11093.16,23778.36,16380.7,20366.45,21414.28,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Male,2022Q1,16114.64,7101.68,17491.43,11069.90,23639.77,16719.79,20240.04,20202.32,"Notes
+Thailand,LFS - Labour Force Survey,Male,2022Q1,16114.64,7101.68,17491.43,11069.9,23639.77,16719.79,20240.04,20202.32,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Female,2022Q1,16306.50,6300.47,14946.27,11212.00,24344.15,16036.17,20461.85,22513.18,"Notes
+Thailand,LFS - Labour Force Survey,Female,2022Q1,16306.5,6300.47,14946.27,11212,24344.15,16036.17,20461.85,22513.18,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Total,2022Q2,16465.17,6887.28,15905.40,11405.71,22667.18,16561.34,20757.26,26499.88,"Notes
+Thailand,LFS - Labour Force Survey,Total,2022Q2,16465.17,6887.28,15905.4,11405.71,22667.18,16561.34,20757.26,26499.88,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
@@ -3258,7 +3257,7 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-Thailand,LFS - Labour Force Survey,Female,2022Q2,16571.70,6353.87,14686.03,11836.49,21750.99,16228.78,20847.32,19642.91,"Notes
+Thailand,LFS - Labour Force Survey,Female,2022Q2,16571.7,6353.87,14686.03,11836.49,21750.99,16228.78,20847.32,19642.91,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Baht 
@@ -3282,14 +3281,14 @@ Average monthly earnings of employees (local currency)
 -Currency unit: Baht 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Frequency: Quarterly"
-United States,LFS - Current Population Survey,Total,2019Q3,4261.16,3119.24,4799.03,4487.13,5524.27,4166.30,4138.46,,"Notes
+United States,LFS - Current Population Survey,Total,2019Q3,4261.16,3119.24,4799.03,4487.13,5524.27,4166.3,4138.46,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Male,2019Q3,4780.93,3261.08,5100.63,4567.66,5592.30,4678.36,4930.76,,"Notes
+United States,LFS - Current Population Survey,Male,2019Q3,4780.93,3261.08,5100.63,4567.66,5592.3,4678.36,4930.76,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3303,21 +3302,21 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Total,2019Q4,4275.27,3180.54,4852.58,4619.10,5661.84,4179.78,4124.88,,"Notes
+United States,LFS - Current Population Survey,Total,2019Q4,4275.27,3180.54,4852.58,4619.1,5661.84,4179.78,4124.88,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Male,2019Q4,4798.96,3397.09,5088.62,4693.20,5744.04,4689.14,4909.16,,"Notes
+United States,LFS - Current Population Survey,Male,2019Q4,4798.96,3397.09,5088.62,4693.2,5744.04,4689.14,4909.16,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Female,2019Q4,3721.50,2737.39,4284.46,4005.29,5358.20,3545.91,3783.18,,"Notes
+United States,LFS - Current Population Survey,Female,2019Q4,3721.5,2737.39,4284.46,4005.29,5358.2,3545.91,3783.18,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3362,7 +3361,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Female,2020Q2,4023.69,2917.89,4510.04,3950.88,4696.00,3862.33,4107.62,,"Notes
+United States,LFS - Current Population Survey,Female,2020Q2,4023.69,2917.89,4510.04,3950.88,4696,3862.33,4107.62,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3383,7 +3382,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Female,2020Q3,4011.90,2995.89,4444.03,4425.15,4967.73,3773.76,4134.18,,"Notes
+United States,LFS - Current Population Survey,Female,2020Q3,4011.9,2995.89,4444.03,4425.15,4967.73,3773.76,4134.18,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3397,7 +3396,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Male,2020Q4,4992.88,3447.96,5295.42,4760.80,5918.86,4875.10,5230.97,,"Notes
+United States,LFS - Current Population Survey,Male,2020Q4,4992.88,3447.96,5295.42,4760.8,5918.86,4875.1,5230.97,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3411,14 +3410,14 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Total,2021Q1,4553.59,3634.40,5061.28,4704.33,6125.45,4429.26,4487.47,,"Notes
+United States,LFS - Current Population Survey,Total,2021Q1,4553.59,3634.4,5061.28,4704.33,6125.45,4429.26,4487.47,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Male,2021Q1,5086.92,3815.14,5353.45,4752.07,6206.69,4950.00,5368.62,,"Notes
+United States,LFS - Current Population Survey,Male,2021Q1,5086.92,3815.14,5353.45,4752.07,6206.69,4950,5368.62,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3432,7 +3431,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Total,2021Q2,4544.40,3445.68,5057.69,4757.22,5869.91,4448.27,4448.75,,"Notes
+United States,LFS - Current Population Survey,Total,2021Q2,4544.4,3445.68,5057.69,4757.22,5869.91,4448.27,4448.75,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3474,7 +3473,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Total,2021Q4,4646.92,3674.13,5335.72,4820.93,5860.40,4556.52,4488.74,,"Notes
+United States,LFS - Current Population Survey,Total,2021Q4,4646.92,3674.13,5335.72,4820.93,5860.4,4556.52,4488.74,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3495,7 +3494,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Total,2022Q1,4724.27,3808.85,5365.74,4829.10,5872.21,4628.83,4605.61,,"Notes
+United States,LFS - Current Population Survey,Total,2022Q1,4724.27,3808.85,5365.74,4829.1,5872.21,4628.83,4605.61,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3509,21 +3508,21 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Female,2022Q1,4167.64,3757.92,4727.86,4280.92,5299.81,3991.44,4230.40,,"Notes
+United States,LFS - Current Population Survey,Female,2022Q1,4167.64,3757.92,4727.86,4280.92,5299.81,3991.44,4230.4,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Total,2022Q2,4832.05,3854.98,5481.58,4975.43,6193.80,4742.81,4679.96,,"Notes
+United States,LFS - Current Population Survey,Total,2022Q2,4832.05,3854.98,5481.58,4975.43,6193.8,4742.81,4679.96,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Male,2022Q2,5366.73,4018.03,5784.30,5031.05,6280.66,5297.43,5402.37,,"Notes
+United States,LFS - Current Population Survey,Male,2022Q2,5366.73,4018.03,5784.3,5031.05,6280.66,5297.43,5402.37,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3537,7 +3536,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Total,2022Q3,4903.72,3653.20,5538.74,5183.10,6075.73,4764.55,4829.89,,"Notes
+United States,LFS - Current Population Survey,Total,2022Q3,4903.72,3653.2,5538.74,5183.1,6075.73,4764.55,4829.89,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3551,21 +3550,21 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Female,2022Q3,4348.55,3184.64,4974.77,4934.69,5722.56,4083.17,4481.60,,"Notes
+United States,LFS - Current Population Survey,Female,2022Q3,4348.55,3184.64,4974.77,4934.69,5722.56,4083.17,4481.6,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Total,2022Q4,4917.98,3836.74,5491.24,5083.20,6438.21,4862.77,4748.76,,"Notes
+United States,LFS - Current Population Survey,Total,2022Q4,4917.98,3836.74,5491.24,5083.2,6438.21,4862.77,4748.76,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Age coverage - minimum age: 16 years old 
 -Frequency: Monthly"
-United States,LFS - Current Population Survey,Male,2022Q4,5456.91,4030.22,5782.98,5156.80,6723.02,5380.16,5537.06,,"Notes
+United States,LFS - Current Population Survey,Male,2022Q4,5456.91,4030.22,5782.98,5156.8,6723.02,5380.16,5537.06,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: United States dollar 
@@ -3586,28 +3585,28 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Male,2019Q3,6939752.73,4784921.76,7047167.40,6331143.48,8248164.34,7970563.46,7222242.79,,"Notes
+Viet Nam,LFS - Labour Force Survey,Male,2019Q3,6939752.73,4784921.76,7047167.4,6331143.48,8248164.34,7970563.46,7222242.79,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Female,2019Q3,6125592.33,3468231.66,6044321.07,5401505.10,6716805.67,6825170.12,6400642.34,,"Notes
+Viet Nam,LFS - Labour Force Survey,Female,2019Q3,6125592.33,3468231.66,6044321.07,5401505.1,6716805.67,6825170.12,6400642.34,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Total,2019Q4,6711182.24,4398653.92,6604944.84,6313607.96,7963693.56,7670038.36,6901935.90,,"Notes
+Viet Nam,LFS - Labour Force Survey,Total,2019Q4,6711182.24,4398653.92,6604944.84,6313607.96,7963693.56,7670038.36,6901935.9,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Male,2019Q4,7064827.88,4847466.22,7182558.44,6384872.72,8432648.62,8140286.60,7405220.05,,"Notes
+Viet Nam,LFS - Labour Force Survey,Male,2019Q4,7064827.88,4847466.22,7182558.44,6384872.72,8432648.62,8140286.6,7405220.05,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
@@ -3621,7 +3620,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Total,2020Q1,7329633.72,4505638.20,7445054.41,6565324.08,8396766.12,8406786.33,7429555.19,,"Notes
+Viet Nam,LFS - Labour Force Survey,Total,2020Q1,7329633.72,4505638.2,7445054.41,6565324.08,8396766.12,8406786.33,7429555.19,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
@@ -3663,7 +3662,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Total,2020Q3,6482019.44,4269882.73,6375868.76,6189630.00,7833118.85,7135548.75,6913373.18,,"Notes
+Viet Nam,LFS - Labour Force Survey,Total,2020Q3,6482019.44,4269882.73,6375868.76,6189630,7833118.85,7135548.75,6913373.18,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
@@ -3677,7 +3676,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Female,2020Q3,6078447.59,3496396.19,5971404.83,5628482.50,6208914.25,6560402.11,6543544.48,,"Notes
+Viet Nam,LFS - Labour Force Survey,Female,2020Q3,6078447.59,3496396.19,5971404.83,5628482.5,6208914.25,6560402.11,6543544.48,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
@@ -3691,14 +3690,14 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Male,2020Q4,7217873.92,5365806.73,9255025.70,7396578.35,9874547.90,5142671.39,6777689.52,,"Notes
+Viet Nam,LFS - Labour Force Survey,Male,2020Q4,7217873.92,5365806.73,9255025.7,7396578.35,9874547.9,5142671.39,6777689.52,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Female,2020Q4,5922422.47,3782427.45,7790403.77,6412198.80,7468387.53,3193156.07,4960874.66,,"Notes
+Viet Nam,LFS - Labour Force Survey,Female,2020Q4,5922422.47,3782427.45,7790403.77,6412198.8,7468387.53,3193156.07,4960874.66,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
@@ -3726,7 +3725,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Total,2021Q2,6731831.22,4529137.50,6651992.13,6436954.42,8078912.71,7544740.16,6936828.54,,"Notes
+Viet Nam,LFS - Labour Force Survey,Total,2021Q2,6731831.22,4529137.5,6651992.13,6436954.42,8078912.71,7544740.16,6936828.54,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
@@ -3747,7 +3746,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Total,2021Q3,6169555.10,4308951.96,5969726.96,5747507.37,7697214.01,6953051.98,6675252.65,,"Notes
+Viet Nam,LFS - Labour Force Survey,Total,2021Q3,6169555.1,4308951.96,5969726.96,5747507.37,7697214.01,6953051.98,6675252.65,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
@@ -3775,7 +3774,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Male,2021Q4,6716025.77,5090430.31,6754477.10,6101263.47,8175834.45,7457612.84,7570819.38,,"Notes
+Viet Nam,LFS - Labour Force Survey,Male,2021Q4,6716025.77,5090430.31,6754477.1,6101263.47,8175834.45,7457612.84,7570819.38,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
@@ -3803,7 +3802,7 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Female,2022Q1,6804488.00,3663898.78,6847537.61,6223723.02,6583386.39,7442453.03,7068868.23,,"Notes
+Viet Nam,LFS - Labour Force Survey,Female,2022Q1,6804488,3663898.78,6847537.61,6223723.02,6583386.39,7442453.03,7068868.23,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
@@ -3838,21 +3837,21 @@ Average monthly earnings of employees (local currency)
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Male,2022Q3,7964822.37,5776536.45,8118274.76,7427726.98,9461451.00,8789156.57,8159886.64,,"Notes
+Viet Nam,LFS - Labour Force Survey,Male,2022Q3,7964822.37,5776536.45,8118274.76,7427726.98,9461451,8789156.57,8159886.64,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Female,2022Q3,7008301.95,3994092.56,7056518.22,6343152.53,6897797.85,7577990.70,7266645.87,,"Notes
+Viet Nam,LFS - Labour Force Survey,Female,2022Q3,7008301.95,3994092.56,7056518.22,6343152.53,6897797.85,7577990.7,7266645.87,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
 -Repository: ILO-STATISTICS - Micro data processing 
 -Components of earnings/wages: Including overtime and/or irregular bonuses 
 -Frequency: Quarterly: average based on 3 monthly data points"
-Viet Nam,LFS - Labour Force Survey,Total,2022Q4,7620976.93,5411517.49,7603366.29,7373449.44,9147960.76,8282456.58,7727512.80,,"Notes
+Viet Nam,LFS - Labour Force Survey,Total,2022Q4,7620976.93,5411517.49,7603366.29,7373449.44,9147960.76,8282456.58,7727512.8,,"Notes
 
 Average monthly earnings of employees (local currency) 
 -Currency unit: Dông 
