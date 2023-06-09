@@ -36,16 +36,23 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 [^1]: 21080060, [Github Repo](https://github.com/ayselgulamzada/21080060)
 
 
-# Introduction
+# Summary
 
-The movement of resources, people, and things is made possible through transportation, which is essential to the operation of contemporary society. To optimize supply chains, cut costs, and reduce environmental impact, transportation resources must be allocated effectively. The level of manufacturing activity within an economy has a substantial impact on transportation demand. Traditionally, transportation demand estimation has relied on historical data, trend analysis, and expert judgment. However, with the development of big data and sophisticated analytical methods, there is a chance to use data-driven methodologies to better correctly estimate transportation demand. In this study, we present a unique methodology for more accurate and reliable transportation demand prediction using data on factory activities. Moreover, the geographical distribution and clustering of manufacturing facilities significantly influence transportation patterns, as the movement of goods between suppliers, production sites, and distribution centers forms intricate transportation networks. Therefore, the central question guiding our research is: How effectively can manufacturing activity data be utilized to predict transportation demand, and what insights can be derived to optimize transportation planning and resource allocation? By addressing this question, we aim to uncover the underlying relationships and patterns between manufacturing activity and transportation demand, ultimately contributing to more accurate forecasting and informed decision-making. The dataset contains 623 observations and 12 variables. The findings of this research have important implications for policymakers, organizations, and advocacy groups committed to promoting fair and inclusive labor practices globally.
+This academic paper presents an analysis of Employment data, focusing on the transportation sector and its relationship with three predictor variables: Manufacturing, Construction, and Mining. The summary statistics for these variables are presented in the first section of the study, together with the mean values, standard deviations, minimal and maximum values, and medians for each variable. The average activity levels, variability, and extremes within the sectors are indicated by these statistics, which also provide insights into the distribution and range of values for each variable.
+After that, the study does a multiple linear regression analysis to look at the variables influencing transportation. The coefficients associated with each predictor variable, quantify the expected impact of these variables on transportation. The relative contributions of each predictor variable to the total impact on the transportation industry are useful insights offered by this information. A bar plot is included to visually represent the coefficients, allowing for a quick comparison and identification of the most influential predictors.
+
+Furthermore, the paper explores the correlation between transportation and manufacturing through a scatter plot. This plot visually depicts the relationship between the two variables, with manufacturing values on the x-axis and transportation values on the y-axis. Each data point represents an individual combination of values, and the overall trend is shown by a smoothed line. This visualization helps identify potential relationships or patterns between transportation and manufacturing, as well as understand the distribution of data points.
+
+The paper concludes by presenting the predictions made using the linear regression model. A line plot provides a visual evaluation of the model's prediction accuracy by comparing the projected transportation numbers versus the actual values. The plot presents the transportation values on the y-axis and samples from the dataset on the x-axis. The orange line represents the projected transportation values based on the regression model, while the blue line represents the actual values. With the help of the specified predictor variables, this comparison enables an assessment of how well the model does at anticipating transportation values.
+
+In summary, this academic paper provides a comprehensive analysis of the employment data, focusing on the transportation sector. The regression analysis and correlation plot investigate the factors influencing transportation, while the summary statistics provide a general picture of the distribution and range of values for the predictor variables. The prediction results provide insights into the model's performance in forecasting transportation values. Overall, this research contributes to a better understanding of the relationships and dynamics within the transportation sector and its association with manufacturing, construction, and mining activities.
 
 
 
 
 
 
-\newpage
-# References {#references}
-<div id="refs"></div>
+
+
+
 
